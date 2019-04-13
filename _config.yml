@@ -108,15 +108,15 @@ analytics:
 author:
   name             : "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Mailing Address
-Department of Astronomy/Steward Observatory 
-933 North Cherry Avenue, Rm. N204 
-Tucson, AZ 85721-0065
+  bio              : "Mailing Address\n
+Department of Astronomy/Steward Observatory \n
+933 North Cherry Avenue, Rm. N204 \n
+Tucson, AZ 85721-0065\n\n
 
-Shipping Address
+Shipping Address\n
  
-Steward Observatory Annex 
-1540 East Second Street 
+Steward Observatory Annex \n
+1540 East Second Street \n
 Tucson, AZ 85721-0064"
   location         : "Tucson, AZ"
   email            :
