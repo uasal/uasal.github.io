@@ -1,2 +1,8 @@
+---
+permalink: /Research/
+title: "Research and Publications"
+excerpt: "Research areas and recent publications."
+toc: true
+---
 
-Research includes
+hello world
