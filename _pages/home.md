@@ -1,6 +1,8 @@
 ---
 defaults:
   # _pages
+  title: "Home"
+
   - scope:
       path: ""
       type: pages
