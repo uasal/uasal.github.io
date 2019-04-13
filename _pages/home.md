@@ -1,3 +1,15 @@
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+      permalink: /
+
+    values:
+      layout: single
+      author_profile: true
+
+
 _Mailing Address_
 
 Department of Astronomy/Steward Observatory 
