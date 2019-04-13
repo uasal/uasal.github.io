@@ -1,4 +1,3 @@
-
 ---
 permalink: /Team/
 title: "UASAL Team"
