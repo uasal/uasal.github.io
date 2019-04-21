@@ -112,9 +112,9 @@ author:
   location         : "Tucson, AZ"
   email            :
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-       url: "mailto:douglase@arizona.edu"
+      # - label: "Email"
+      #icon: "fas fa-fw fa-envelope-square"
+      # url: "mailto:douglase@arizona.edu"
     - label: "Department of Astronomy"
       icon: "fas fa-fw fa-link"
       url: "https://as.arizona.edu"
