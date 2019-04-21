@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "University of Arizona Space Astrophysics Lab"
 title_separator          : "-"
-name                     : "Ewan S. Douglas, Assistant Professor"
+name                     : "Ewan S. Douglas"
 description              : "A Small Satellite and Extra Solar Star System Lab at Steward Observatory"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -106,7 +106,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Ewan Douglas"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
   location         : "Tucson, AZ"
@@ -114,10 +114,10 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
-    - label: "Website"
+       url: mailto:douglase@arizona.edu
+    - label: "Department of Astronomy"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://as.arizona.edu"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
