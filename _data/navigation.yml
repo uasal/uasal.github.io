@@ -6,6 +6,10 @@ main:
      url: /Research
    - title: "Team"
      url: /Team/
+   - title: "Software"
+     url: /Software
+   - title: "Facilities"
+     url: /Software
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
