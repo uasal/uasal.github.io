@@ -6,4 +6,4 @@ toc: true
 ---
 
 
-[Ewan Douglas, Assistant Professor, University of Arizona Steward Observatory](https://www.as.arizona.edu/people/faculty/ewan-douglas)
+[Ewan Douglas](https://www.as.arizona.edu/people/faculty/ewan-douglas), Assistant Professor, University of Arizona Steward Observatory. 
