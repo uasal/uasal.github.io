@@ -6,8 +6,8 @@ main:
      url: /Research
    - title: "Team"
      url: /Team/
-   - title: "Software"
-     url: /Software
+   - title: "Open Source"
+     url: /OpenSource
    - title: "Facilities"
      url: /Software
   # - title: "Sample Collections"
