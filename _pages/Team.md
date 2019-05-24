@@ -6,4 +6,12 @@ toc: true
 ---
 
 
-[Ewan Douglas](https://www.as.arizona.edu/people/faculty/ewan-douglas), Assistant Professor, at the University of Arizona Steward Observatory. 
+[Ewan Douglas](https://www.as.arizona.edu/people/faculty/ewan-douglas), Assistant Professor, University of Arizona Steward Observatory. 
+
+
+
+
+## Undergrads
+
+Amanda Fordyce, Undergraduate student in Aerospace Engineering
+
