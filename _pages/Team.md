@@ -7,3 +7,7 @@ toc: true
 
 
 [Ewan Douglas](https://www.as.arizona.edu/people/faculty/ewan-douglas), Assistant Professor, University of Arizona Steward Observatory. 
+
+## Undergraduate 
+
+Rickayla Ferguson, undergradute in Aerospace Engineering 
