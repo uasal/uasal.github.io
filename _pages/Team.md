@@ -13,5 +13,5 @@ toc: true
 
 ## Undergraduate Students
 
-- Rickayla Ferguson, undergradute in Aerospace Engineering 
-- Amanda Fordyce, Undergraduate student in Aerospace Engineering
+- Rickayla Ferguson, undergradute in Aerospace Engineering.
+- Amanda Fordyce, undergraduate student in Aerospace Engineering.
