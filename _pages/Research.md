@@ -4,8 +4,7 @@ permalink: /Research/
 title: "Research and Publications"
 excerpt: "Research areas and recent publications."
 toc: false
-layout: single
-classes: wide
+layout: default
 ---
 
 Our research interest spans development of new instruments and missions for space science to radiative transfer modeling of extrasolar star systems. For our past work, see the lab publication library available from the
