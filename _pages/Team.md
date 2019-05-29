@@ -1,9 +1,7 @@
 ---
 defaults:
   # _pages
-  title: "Home"
-  excerpt: "Team Member Bios."
-  toc: true
+  title: "UASAL Team"
 
   - scope:
       path: ""
@@ -13,6 +11,8 @@ defaults:
     values:
       layout: single
       author_profile: false
+      toc: true
+      excerpt: "Team Member Bios"
 ---
 
 [Ewan Douglas](https://www.as.arizona.edu/people/faculty/ewan-douglas), Assistant Professor, at the University of Arizona Steward Observatory.
