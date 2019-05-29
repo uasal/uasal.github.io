@@ -3,7 +3,7 @@ permalink: /Team/
   # _layouts
 title: "Team"
 excerpt: "Team Member Bios."
-layout: single
+layout: default
 ---
 
 [Ewan Douglas](https://www.as.arizona.edu/people/faculty/ewan-douglas), Assistant Professor, at the University of Arizona Steward Observatory.
