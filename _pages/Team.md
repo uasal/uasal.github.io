@@ -1,10 +1,19 @@
 ---
-permalink: /Team/
-title: "UASAL Team"
-excerpt: "Team Member Bios."
-toc: true
----
+defaults:
+  # _pages
+  title: "Home"
+  excerpt: "Team Member Bios."
+  toc: true
 
+  - scope:
+      path: ""
+      type: pages
+      permalink: /Team/
+
+    values:
+      layout: single
+      author_profile: false
+---
 
 [Ewan Douglas](https://www.as.arizona.edu/people/faculty/ewan-douglas), Assistant Professor, at the University of Arizona Steward Observatory.
 
