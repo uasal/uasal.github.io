@@ -1,6 +1,6 @@
 ---
 # _layouts
-permalink: /Facilities
+permalink: /Facilities/
 title: "Facilities"
 excerpt: "Facilities"
 toc: false
