@@ -1,8 +1,8 @@
 ---
 permalink: /Team/
+  # _layouts
 title: "Team"
 excerpt: "Team Member Bios."
-toc: true
 layout: single
 ---
 
