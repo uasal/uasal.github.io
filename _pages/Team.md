@@ -16,3 +16,4 @@ layout: single
 
 - Rickayla Ferguson, undergradute in Aerospace Engineering.
 - Amanda Fordyce, undergraduate student in Aerospace Engineering.
+- Kian Milani, undergraduate student in Optical Engineering.
