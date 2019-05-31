@@ -13,3 +13,4 @@ toc: true
 ## Undergrads
 - Rickayla Ferguson, undergradute in Aerospace Engineering 
 - Amanda Fordyce, Undergraduate student in Aerospace Engineering
+- Arsh Nadkarni, Undergraduate Sophomore in Astronomy & Physics
