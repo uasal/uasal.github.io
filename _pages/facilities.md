@@ -11,7 +11,7 @@ A new interdisciplinary SmallSat initiative at the UA includes construction of i
 
 ### Prototyping and 3D printing
 
- UA students should feel free to contact us if they have space or astornomy related components they would like to prototype. Available equipment include a laser cutter and 3D printers, including a Dremel 3D40 and a Markforged Onyx Pro printer allow rapid prototyping.
+ UA students should feel free to contact us if they have space or astronomy related components they would like to prototype. Available equipment include a laser cutter and 3D printers, including a Dremel 3D40 and a Markforged Onyx Pro printer allow rapid prototyping.
 
 ### Optical Metrology and Testing
 
