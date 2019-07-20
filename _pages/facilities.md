@@ -11,6 +11,8 @@ A new interdisciplinary SmallSat initiative at the UA includes construction of i
 
 ### Prototyping and 3D printing
 
+ UA students should feel free to contact us if they have space or astornomy related components they would like to prototype. Available equipment include a laser cutter and 3D printers, including a Dremel 3D40 and a Markforged Onyx Pro printer allow rapid prototyping.
+
 ### Optical Metrology and Testing
 
-
+Our lab's 4D PhaseCam 6000 allows vibration insensitive metrology of optical systems such a space telescope assemblies as well as testing of individual optical components.
