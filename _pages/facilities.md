@@ -15,4 +15,4 @@ A new interdisciplinary SmallSat initiative at the UA includes construction of i
 
 ### Optical Metrology and Testing
 
-Our lab's 4D PhaseCam 6000 allows vibration insensitive metrology of optical systems such a space telescope assemblies as well as testing of individual optical components.
+Our lab's 4D PhaseCam 6000 allows vibration insensitive metrology of optical systems such a space telescope assemblies as well as testing of individual optical components on nanometer scales.
