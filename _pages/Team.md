@@ -11,6 +11,7 @@ layout: single
 
 ## Graduate Students
 - Erin Maier, graduate student at the University of Arizona Steward Observatory.
+- [Jaren Ashcraft](https://www.linkedin.com/in/jashcraf/), graduate student at the University of Arizona Wyant College of Optical Sciences
 
 ## Undergraduate Students
 
