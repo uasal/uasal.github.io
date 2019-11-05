@@ -18,5 +18,5 @@ layout: single
 - Rickayla Ferguson, undergradute in Aerospace Engineering.
 - Amanda Fordyce, undergraduate student in Aerospace Engineering.
 - Kian Milani, undergraduate student in Optical Engineering.
-- Arsh Nadkarni, Undergraduate Student in Astronomy and Applied Physics.
+- [Arsh Nadkarni](https://astroarshn2000.github.io/), Undergraduate Student in Astronomy and Applied Physics.
 - Bohan Li, undergraduate student in Computer Science and Mathematics.
