@@ -21,3 +21,4 @@ layout: single
 - Kian Milani, undergraduate student in Optical Engineering.
 - [Arsh Nadkarni](https://astroarshn2000.github.io/), Undergraduate Student in Astronomy and Applied Physics.
 - Bohan Li, undergraduate student in Computer Science and Mathematics.
+- Bianca Payan, undergraduate student in Astronmoy and Physics.
