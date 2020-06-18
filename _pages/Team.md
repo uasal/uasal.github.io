@@ -13,12 +13,12 @@ layout: single
 - Erin Maier, graduate student at the University of Arizona Steward Observatory.
 - [Jaren Ashcraft](https://www.linkedin.com/in/jashcraf/), graduate student at the University of Arizona Wyant College of Optical Sciences
 - [Amit Kumar Jha](https://www.linkedin.com/in/amit-kumar-jha-79b8a6110/), graduate student at the University of Arizona College of Optical Sciences
+- Kian Milani, graduate student at the Wyant College of Optical Sciences at University of Arizona.
 
 ## Undergraduate Students
 
 - Rickayla Ferguson, undergradute in Aerospace Engineering.
 - Amanda Fordyce, undergraduate student in Aerospace Engineering.
-- Kian Milani, undergraduate student in Optical Engineering.
 - [Arsh Nadkarni](https://astroarshn2000.github.io/), Undergraduate Student in Astronomy and Applied Physics.
 - Bohan Li, undergraduate student in Computer Science and Mathematics.
 - Bianca Payan, undergraduate student in Astronmoy and Physics.
