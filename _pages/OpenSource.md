@@ -12,4 +12,4 @@ The UASAL team is an active contributor to the Physical Optics Propagation in Py
 
 We have also begun contributing to the [CubeSat Climate CoBuild](https://c3.pubpub.org/) open source outreach hardware project. 
 
-Members of the lab are active in the University of Arizona [Astronomy Camp](https://www.astronomycamp.org) and the                                                                                       [Tucson Initiative for Minority Engagement in Science and TEchnology Program (TIMESTEP)](https://lavinia.as.arizona.edu/~timestep/). Companes
+Members of the lab are active in the University of Arizona [Astronomy Camp](https://www.astronomycamp.org) and the                                                                                       [Tucson Initiative for Minority Engagement in Science and TEchnology Program (TIMESTEP)](https://lavinia.as.arizona.edu/~timestep/).
