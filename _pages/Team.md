@@ -14,11 +14,15 @@ layout: single
 - [Jaren Ashcraft](https://www.linkedin.com/in/jashcraf/), graduate student at the University of Arizona Wyant College of Optical Sciences
 - [Amit Kumar Jha](https://www.linkedin.com/in/amit-kumar-jha-79b8a6110/), graduate student at the University of Arizona College of Optical Sciences
 - Kian Milani, graduate student at the Wyant College of Optical Sciences at University of Arizona.
-- Bohan Li, graduate student in Computer Science.
+- Bohan Li, graduate student in Computer Science at University of Arizona.
 
 ## Undergraduate Students
+- Amanda Fordyce, UArizona undergraduate student in Aerospace Engineering.
 
-- Rickayla Ferguson, undergradute in Aerospace Engineering.
-- Amanda Fordyce, undergraduate student in Aerospace Engineering.
-- [Arsh Nadkarni](https://astroarshn2000.github.io/), Undergraduate Student in Astronomy and Applied Physics.
-- Bianca Payan, undergraduate student in Astronmoy and Physics.
+
+## Former Undergraduate Students
+- Rickayla Ferguson, UArizona undergradute in Aerospace Engineering.
+- [Arsh Nadkarni](https://astroarshn2000.github.io/), UArizona Undergraduate Student in Astronomy and Applied Physics.
+- Bianca Payan, UArizona undergraduate student in Astronomy and Physics.
+- Kian Milani, undergraduate student at the Wyant College of Optical Sciences at University of Arizona.
+- Bohan Li, undergraduate student in Computer Science.
