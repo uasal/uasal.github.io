@@ -32,7 +32,7 @@ layout: single
 
 Some of UASAL's frequent collaborators include 
 
-- The Large Optics Fabrication and Test Lab [UA LOFT](http://www.loft.optics.arizona.edu/).
-- The eXtreme-Wavefront Control Lab [UA XWCL](https://xwcl.science)
-- The MIT Space, Telecommunications, Astronomy, and Radiation [STAR Lab](http://starlab.mit.edu/)
-- The UA Center for Adaptive Optics [CAAO](https://www.as.arizona.edu/CAAO)
+- The Large Optics Fabrication and Test Lab: [UA LOFT](http://www.loft.optics.arizona.edu/).
+- The eXtreme-Wavefront Control Lab: [UA XWCL](https://xwcl.science)
+- The MIT Space, Telecommunications, Astronomy, and Radiation Lab: [STAR Lab](http://starlab.mit.edu/)
+- The UA Center for Adaptive Optics: [CAAO](https://www.as.arizona.edu/CAAO)
