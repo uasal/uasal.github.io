@@ -1,6 +1,6 @@
 ---
 # _layouts
-permalink: /OpenSource and Outreach/
+permalink: /OpenSourceAndOutreach/
 title: "Open Source and Outreach"
 excerpt: "Open Source Projects"
 toc: false
