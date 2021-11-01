@@ -11,6 +11,7 @@ layout: single
 
 ## Postdoctoral Researchers
 - [Kyle Van Gorkom](https://kvangorkom.github.io/), postdoc at the University of Arizona Steward Observatory.
+- [Ramya M Anche](https://www.linkedin.com/in/ramyamanjunath/), postdoc at the University of Arizona Steward Observatory.
 
 ## Graduate Students
 - Erin Maier, graduate student at the University of Arizona Steward Observatory.
