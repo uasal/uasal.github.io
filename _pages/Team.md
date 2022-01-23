@@ -21,11 +21,11 @@ layout: single
 - Bohan Li, graduate student in Computer Science at University of Arizona.
 
 ## Undergraduate Students
-- Amanda Fordyce, UArizona undergraduate student in Aerospace Engineering.
 - Ariel Shaver, UArizona undergraduate student in Systems Engineering.
 
 ## Former Undergraduate Students
 - Rickayla Ferguson, UArizona undergradute in Aerospace Engineering.
+- Amanda Fordyce, UArizona undergraduate student in Aerospace Engineering.
 - [Arsh Nadkarni](https://astroarshn2000.github.io/), UArizona Undergraduate Student in Astronomy and Applied Physics.
 - Bianca Payan, UArizona undergraduate student in Astronomy and Physics.
 - Kian Milani, undergraduate student at the Wyant College of Optical Sciences at University of Arizona.
