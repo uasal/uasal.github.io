@@ -22,7 +22,7 @@ layout: single
 
 ## Undergraduate Students
 - Amanda Fordyce, UArizona undergraduate student in Aerospace Engineering.
-
+- Ariel Shaver, UArizona undergraduate student in Systems Engineering.
 
 ## Former Undergraduate Students
 - Rickayla Ferguson, UArizona undergradute in Aerospace Engineering.
