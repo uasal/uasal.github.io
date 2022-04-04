@@ -16,3 +16,8 @@ A new interdisciplinary SmallSat initiative at the UA includes construction of i
 ### Optical Metrology and Testing
 
 Our lab's 4D PhaseCam 6000 allows vibration insensitive metrology of optical systems such a space telescope assemblies as well as testing of individual optical components on nanometer scales.
+
+
+### Ground-based Astronomical Observatories
+
+Steward Observatory is a partner and home to a wide range of world-class observatories, for details see our [observatories page](observatories.md).
