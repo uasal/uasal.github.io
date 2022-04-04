@@ -7,6 +7,7 @@ toc: false
 layout: single
 ---
 
+Steward Observatory provides direct access to various world-class facilities for ground-based radio and optical observing. Among these are the Large Binocular Telescope and 6.5m aperture telescopes located in both the northern ([the MMT](https://mmto.arizona.edu/)) and southern hemispheres (the Baade and Clay telescopes at [Magellan Observatory](http://www.lco.cl/magellan-telescopes/) ) and accepts applications from faculty, postdocs, **graduate and undergraduate students at UA, ASU, and NAU**.  
 
 Steward Observatory (SO) is the sole operator for several world class observatories, including:
 
