@@ -14,22 +14,25 @@ layout: single
 - [Ramya M Anche](https://www.linkedin.com/in/ramyamanjunath/), postdoc at the University of Arizona Steward Observatory.
 
 ## Graduate Students
-- Erin Maier, graduate student at the University of Arizona Steward Observatory.
 - [Jaren Ashcraft](https://www.linkedin.com/in/jashcraf/), graduate student at the University of Arizona Wyant College of Optical Sciences
 - [Amit Kumar Jha](https://www.linkedin.com/in/amit-kumar-jha-79b8a6110/), graduate student at the University of Arizona College of Optical Sciences
 - Kian Milani, graduate student at the Wyant College of Optical Sciences at University of Arizona.
-- Bohan Li, graduate student in Computer Science at University of Arizona.
 
 ## Undergraduate Students
-- Ariel Shaver, UArizona undergraduate student in Systems Engineering.
+- Bianca Payan, UArizona undergraduate student in Astronomy and Physics.
+
+## Former Graduate Students
+- [Erin Maier](https://www.linkedin.com/in/erinmaier/), Observer Technician II, Lowell Observatory. Graduate student, University of Arizona Steward Observatory.
+- Bohan Li, graduate student in Computer Science at University of Arizona.
+
 
 ### Former Undergraduate Students
 - Rickayla Ferguson, UArizona undergradute in Aerospace Engineering.
 - Amanda Fordyce, UArizona undergraduate student in Aerospace Engineering.
-- [Arsh Nadkarni](https://astroarshn2000.github.io/), UArizona Undergraduate Student in Astronomy and Applied Physics.
-- Bianca Payan, UArizona undergraduate student in Astronomy and Physics.
+- Arsh Nadkarni, UArizona Undergraduate Student in Astronomy and Applied Physics.
 - Kian Milani, undergraduate student at the Wyant College of Optical Sciences at University of Arizona.
 - Bohan Li, undergraduate student in Computer Science.
+- Ariel Shaver, UArizona undergraduate student in Systems Engineering.
 
 ## Staff
 - Manny Montoya, Technical Manager, UA Steward Observatory
