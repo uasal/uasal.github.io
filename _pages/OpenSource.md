@@ -14,5 +14,3 @@ The UASAL team is an active contributor to projects including:
 - pyKLIP, a python library for PSF subtraction for both exoplanet and disk imaging, [pyKLIP](https://bitbucket.org/pyKLIP/pyklip)
 
 Members of the lab are active in many other programs, including the University of Arizona [Astronomy Camp](https://www.astronomycamp.org), the                                                                                       [Tucson Initiative for Minority Engagement in Science and TEchnology Program (TIMESTEP)](https://lavinia.as.arizona.edu/~timestep/), and [the Steward Observatory Diversity, Equity, and Inclusion initiative](https://sites.google.com/view/sodei).
-
-We have also begun contributing to the [CubeSat Climate CoBuild](https://c3.pubpub.org/) open source outreach hardware project. 
