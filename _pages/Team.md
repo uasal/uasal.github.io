@@ -17,6 +17,7 @@ layout: single
 - [Jaren Ashcraft](https://www.linkedin.com/in/jashcraf/), graduate student at the University of Arizona Wyant College of Optical Sciences
 - [Amit Kumar Jha](https://www.linkedin.com/in/amit-kumar-jha-79b8a6110/), graduate student at the University of Arizona College of Optical Sciences
 - Kian Milani, graduate student at the Wyant College of Optical Sciences at University of Arizona.
+- Alex Carter, graduate student at the University of Arizona Wyant College of Optical Sciences.
 
 ## Undergraduate Students
 - Bianca Payan, UArizona undergraduate student in Astronomy and Physics.
