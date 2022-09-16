@@ -22,6 +22,7 @@ layout: single
 
 ## Undergraduate Students
 - Bianca Payan, UArizona undergraduate student in Astronomy and Physics.
+- Guransh Mann, UArizona undergraduate student in Electrical Engineering.
 
 ## Former Graduate Students
 - [Erin Maier](https://www.linkedin.com/in/erinmaier/), Observer Technician II, Lowell Observatory. Graduate student, University of Arizona Steward Observatory.
