@@ -21,6 +21,10 @@ layout: single
 - Alex Carter, graduate student at the University of Arizona Wyant College of Optical Sciences.
 - [Emory Jenkins](https://www.linkedin.com/in/emory-jenkins/), graduate student at the University of Arizona Wyant College of Optical Sciences.
 
+## Research Staff
+- Manny Montoya, Technical Manager, UA Steward Observatory
+
+
 ## Undergraduate Students
 - Bianca Payan, UArizona undergraduate student in Astronomy and Physics.
 - Guransh Mann, UArizona undergraduate student in Electrical Engineering.
@@ -38,8 +42,7 @@ layout: single
 - Bohan Li, undergraduate student in Computer Science.
 - Ariel Shaver, UArizona undergraduate student in Systems Engineering.
 
-## Staff
-- Manny Montoya, Technical Manager, UA Steward Observatory
+## Former Staff
 - Robert Thompson, Software and Technical Services Specialist 
 
 
