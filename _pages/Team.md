@@ -12,6 +12,7 @@ layout: single
 ## Postdoctoral Researchers
 - [Kyle Van Gorkom](https://kvangorkom.github.io/), postdoc at the University of Arizona Steward Observatory.
 - [Ramya M Anche](https://www.linkedin.com/in/ramyamanjunath/), postdoc at the University of Arizona Steward Observatory.
+- [Hyukmo Kang](https://scholar.google.com/citations?user=8-L3CegAAAAJ&hl=en), postdoc at the Univerisy of Arizona of Wyant College of Optical Sciences.
 
 ## Graduate Students
 - [Jaren Ashcraft](https://www.linkedin.com/in/jashcraf/), graduate student at the University of Arizona Wyant College of Optical Sciences.
