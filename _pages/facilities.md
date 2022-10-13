@@ -13,6 +13,8 @@ A new interdisciplinary SmallSat initiative at the UA includes construction of i
 To advance exoplanet imaging technologies we operate a vacuum-compatible high-contrast testbed, currently configured for visible wavelengths and featuring a 952 actuator deformable mirror.  
 [Design and Assembly paper, Ashcraft et al 2021](https://arxiv.org/abs/2208.01156). 
 
+![SCoOB Assembled in our laboratory’s clean tent from Ashcraft et al 2021](/assets/scoob_assembly.jpg)
+
 ### Prototyping and 3D printing
 
  UA students should feel free to contact us if they have space or astronomy related components they would like to prototype. Available equipment include a Dremel LC40 laser cutter and 3D printers, including a Dremel 3D40 and a Markforged Onyx Pro printer allow rapid prototyping.
