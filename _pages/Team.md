@@ -23,6 +23,7 @@ layout: single
 
 ## Research Staff
 - Manny Montoya, Technical Manager, UA Steward Observatory
+- Jess Johnson, Adaptive Optics Research Scientist, UA Steward Observatory.
 
 
 ## Undergraduate Students
