@@ -23,6 +23,7 @@ layout: single
 
 ## Research Staff
 - Manny Montoya, Technical Manager, UA Steward Observatory
+- [Aaron Goldtooth](https://www.linkedin.com/in/aaron-goldtooth/), Research Technician, UA Steward Observatory
 
 
 ## Undergraduate Students
