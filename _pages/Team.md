@@ -20,6 +20,7 @@ Principal Investigator [Ewan Douglas](https://www.as.arizona.edu/people/faculty/
 - Kian Milani, graduate student at the Wyant College of Optical Sciences at University of Arizona.
 - Alex Carter, graduate student at the University of Arizona Wyant College of Optical Sciences.
 - [Emory Jenkins](https://www.linkedin.com/in/emory-jenkins/), graduate student at the University of Arizona Wyant College of Optical Sciences.
+- Yu-Chia Lin, graduate student at the University of Arizona Physics  [![google scholar badge](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=uLe1uIsAAAAJ)[![ORCiD badge](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)0000-0002-1511-310X](0000-0002-1511-310X).
 
 ## Research Staff
 - Manny Montoya, Technical Manager, UA Steward Observatory
