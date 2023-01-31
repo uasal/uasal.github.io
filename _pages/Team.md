@@ -26,7 +26,7 @@ Principal Investigator [Ewan Douglas](https://www.as.arizona.edu/people/faculty/
 - Manny Montoya, Technical Manager, UA Steward Observatory
 - [Aaron Goldtooth](https://www.linkedin.com/in/aaron-goldtooth/), Research Technician, UA Steward Observatory
 - Jess Johnson, Adaptive Optics Research Scientist, UA Steward Observatory.
-- [Sai Krishanth PM](https://www.linkedin.com/in/sai-krishanth-pulikesi-mannan-30609872/), Research Professional, UA Steward Observatory, [![google scholar badge](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=CTJFXX8AAAAJ&hl=en&oi=sra), [![ORCiD badge](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)0000-0002-9869-6223]([https://orcid.org/0000-0002-0813-4308](https://orcid.org/0000-0002-9869-6223)).
+- [Sai Krishanth PM](https://www.linkedin.com/in/sai-krishanth-pulikesi-mannan-30609872/), Research Professional, UA Steward Observatory, [![google scholar badge](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=CTJFXX8AAAAJ&hl=en&oi=sra), [![ORCiD badge](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)0000-0002-9869-6223](https://orcid.org/0000-0002-9869-6223).
 
 ## Undergraduate Students
 - Bianca Payan, UArizona undergraduate student in Astronomy and Physics.
