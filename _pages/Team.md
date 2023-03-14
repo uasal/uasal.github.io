@@ -7,6 +7,7 @@ toc: false
 layout: single
 ---
 
+
 Principal Investigator [Ewan Douglas](https://www.as.arizona.edu/people/faculty/ewan-douglas) is an Assistant Professor at the University of Arizona Steward Observatory, [![google scholar badge](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=-mwPSu8AAAAJ&view_op=list_works&sortby=pubdate), [![ORCiD badge](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)0000-0002-0813-4308](https://orcid.org/0000-0002-0813-4308).
 
 ## Postdoctoral Researchers
@@ -34,6 +35,21 @@ Principal Investigator [Ewan Douglas](https://www.as.arizona.edu/people/faculty/
 - Guransh Mann, UArizona undergraduate student in Electrical Engineering.
 - Thomas Singelstad, UArizona undergraduate student in Astronomy.
 
+
+## Collaborators 
+
+Some of UASAL's frequent collaborators include 
+
+- The Large Optics Fabrication and Test Lab: [UA LOFT](http://www.loft.optics.arizona.edu/).
+- The eXtreme-Wavefront Control Lab: [UA XWCL](https://xwcl.science)
+- The MIT Space, Telecommunications, Astronomy, and Radiation Lab: [MIT STAR Lab](http://starlab.mit.edu/)
+- The UA Center for Adaptive Optics: [CAAO](https://www.as.arizona.edu/CAAO)
+
+
+## Opportunities/jobs
+
+
+
 ## Former Graduate Students
 - [Erin Maier](https://www.linkedin.com/in/erinmaier/), Observer Technician II, Lowell Observatory. Graduate student, University of Arizona Steward Observatory.
 - Bohan Li, graduate student in Computer Science at University of Arizona.
@@ -51,13 +67,5 @@ Principal Investigator [Ewan Douglas](https://www.as.arizona.edu/people/faculty/
 - Robert Thompson, Software and Technical Services Specialist 
 
 
-## Collaborators 
-
-Some of UASAL's frequent collaborators include 
-
-- The Large Optics Fabrication and Test Lab: [UA LOFT](http://www.loft.optics.arizona.edu/).
-- The eXtreme-Wavefront Control Lab: [UA XWCL](https://xwcl.science)
-- The MIT Space, Telecommunications, Astronomy, and Radiation Lab: [MIT STAR Lab](http://starlab.mit.edu/)
-- The UA Center for Adaptive Optics: [CAAO](https://www.as.arizona.edu/CAAO)
-
 ## TimeStep Interns
+
