@@ -10,6 +10,8 @@ layout: single
 
 Principal Investigator [Ewan Douglas](https://www.as.arizona.edu/people/faculty/ewan-douglas) is an Assistant Professor at the University of Arizona Steward Observatory, [![google scholar badge](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=-mwPSu8AAAAJ&view_op=list_works&sortby=pubdate), [![ORCiD badge](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)0000-0002-0813-4308](https://orcid.org/0000-0002-0813-4308).
 
+## Opportunities/Jobs
+
 ## Postdoctoral Researchers
 - [Kyle Van Gorkom](https://kvangorkom.github.io/), postdoc at the University of Arizona Steward Observatory.
 - [Ramya M Anche](https://www.linkedin.com/in/ramyamanjunath/), postdoc at the University of Arizona Steward Observatory.
@@ -44,10 +46,6 @@ Some of UASAL's frequent collaborators include
 - The eXtreme-Wavefront Control Lab: [UA XWCL](https://xwcl.science)
 - The MIT Space, Telecommunications, Astronomy, and Radiation Lab: [MIT STAR Lab](http://starlab.mit.edu/)
 - The UA Center for Adaptive Optics: [CAAO](https://www.as.arizona.edu/CAAO)
-
-
-## Opportunities/jobs
-
 
 
 ## Former Graduate Students
