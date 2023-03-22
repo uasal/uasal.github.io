@@ -25,4 +25,4 @@ We have many open positions for enrolled UA Graduate Students from across the Un
 - [Administrative Support Assistant II](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/12427?c=arizona)
 
 
-                                                                                                      _Updated 3/22/23_
+_Last Updated 3/22/23_
