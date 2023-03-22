@@ -1,8 +1,8 @@
 ---
 # _layouts
-permalink: /Team/
-title: "Team"
-excerpt: "Team Member Bios."
+permalink: /opportunities/
+title: "Join"
+excerpt: "Opportunities to join our research team"
 toc: false
 layout: single
 ---
