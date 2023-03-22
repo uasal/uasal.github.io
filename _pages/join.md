@@ -17,6 +17,7 @@ We have many open positions for enrolled UA Graduate Students from across the Un
 
 ## Other Open Positions in Steward Observatory:
 
+
 - [R&D Mechanical Engineer III](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/13258?c=arizona)
 - [IT Support Computing Analyst II](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/13365?c=arizona)
 - [Grant and Contract Administrator I](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/13822?c=arizona)
