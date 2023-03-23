@@ -11,9 +11,9 @@ A new interdisciplinary SmallSat initiative at the UA includes construction of i
 
 ### The Space Coronagraph Optical Bench (SCoOB)
 To advance exoplanet imaging technologies we operate a vacuum-compatible high-contrast testbed, currently configured for visible wavelengths and featuring a 952 actuator deformable mirror.  
-[Design and Assembly paper, Ashcraft et al 2021](https://arxiv.org/abs/2208.01156). 
+[Design and Assembly paper, Ashcraft et al 2022 (Proceedings of SPIE)](https://arxiv.org/abs/2208.01156). 
 
-![SCoOB Assembled in our laboratory’s clean tent from Ashcraft et al 2021](/assets/testbed_assembled.png)
+![SCoOB Assembled in our laboratory’s clean tent from Ashcraft et al 2022](/assets/testbed_assembled.png)
 
 ### Prototyping and 3D printing
 
