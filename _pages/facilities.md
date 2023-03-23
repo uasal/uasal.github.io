@@ -23,6 +23,15 @@ To advance exoplanet imaging technologies we operate a vacuum-compatible high-co
 
 Our lab's 4D PhaseCam 6000 allows vibration insensitive metrology of optical systems such a space telescope assemblies as well as testing of individual optical components on nanometer scales.
 
+### Thermal Vacuum Testing
+Our lab facilities at Steward Observatory include a vibration isolated Thermal Vacuum Test chamber manufactured by Rydberg Vacuum Sciences for testing sensitive payloads had high/ultrahigh vacuu,.
+
+- Chamber interior is 1.2m in diameter and 2.2m in length. The usable vertical dimension with the vibration isolating optical bench installed is less than 0.5m 
+- Vacuum capability: as low as 1e-8 via turbomolecular pump, 1e-8 Torr with LN2 cold plate
+- Temperature Range: -150 C to 150 C Maximum temp ramp rate: +/- 2 C/min. 
+- LN2: Chamber cooling is provided via LN2. 
+
+![Exterior of vacuum chamber ](assets/IMG_1365.JPG]
 
 ### Ground-based Astronomical Observatories
 
