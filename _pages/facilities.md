@@ -31,7 +31,7 @@ Our lab facilities at Steward Observatory include a vibration isolated Thermal V
 - Temperature Range: -150 C to 150 C Maximum temp ramp rate: +/- 2 C/min. 
 - LN2: Chamber cooling is provided via LN2. 
 
-![Exterior of thermal vacuum chamber](assets/IMG_1365.JPG)
+![Exterior of thermal vacuum chamber](/assets/IMG_1365.JPG)
 
 ### Ground-based Astronomical Observatories
 
