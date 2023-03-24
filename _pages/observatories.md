@@ -9,10 +9,10 @@ layout: single
 
 Steward Observatory provides direct access to various world-class facilities for ground-based radio and optical observing. Among these are the Large Binocular Telescope and 6.5m aperture telescopes located in both the northern ([the MMT](https://mmto.arizona.edu/)) and southern hemispheres (the Baade and Clay telescopes at [Magellan Observatory](http://www.lco.cl/magellan-telescopes/) ) and accepts [observing proposals](https://www.as.arizona.edu/telescope-proposals) from faculty, postdocs, **graduate and undergraduate students at UA, ASU, and NAU**.  
 
-Steward Observatory (SO) is the sole operator for several world class observatories, including:
+Steward Observatory (SO) is the sole operator for several world-class observatories, including:
 
 * The [90" (2.3m) Bok Telescope](http://bok.as.arizona.edu/) on Kitt Peak
-* The 61" Kuiper Telescope on Mt Bigelow 
+* The 61" Kuiper Telescope on Mt. Bigelow 
 * The 60" at the summit of Mt. Lemmon
 
 [SO Mountain Operations ("MtnOps")](https://mtnops.as.arizona.edu/) is responsible for these observatories and maintains a [telescope wiki](https://lavinia.as.arizona.edu/~tscopewiki) and those wishing to operate one of these observatories should consult the [SO Observing Guidelines](http://james.as.arizona.edu/~psmith/90inch/guidelines.html). 
