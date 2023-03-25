@@ -15,4 +15,4 @@ Our research is primarily funded by NASA.
 
 
 
-To directly support our work in lowering the cost of astronomy from space and developing new technologies that help us better image extrasolar planets, you can give to the [UA Foundation](https://give.uafoundation.org/science-astronomy). In the "Other" field, please type either UASAL CubeSats, UASAL Space Coronagraph Project, or Douglas Lab. For more information, contact [Cathi Duncan](cduncanf@email.arizona.edu) or Ewan Douglas.
+To directly support our work: lowering the cost of astronomy from space and developing new technologies that help astronomers better image extrasolar planets, you can give to the [UA Foundation](https://give.uafoundation.org/science-astronomy). In the "Other" field, please type either UASAL CubeSats, UASAL Space Coronagraph Project, or Douglas Lab. For more information, contact [Cathi Duncan](cduncanf@email.arizona.edu) or Ewan Douglas.
