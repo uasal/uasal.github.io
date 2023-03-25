@@ -14,7 +14,7 @@ See [Open positions to join our research](join.md) team.
 ## Postdoctoral Researchers
 - [Kyle Van Gorkom](https://kvangorkom.github.io/), postdoc at the University of Arizona Steward Observatory.
 - [Ramya M Anche](https://www.linkedin.com/in/ramyamanjunath/), postdoc at the University of Arizona Steward Observatory.
-- [Hyukmo Kang](https://scholar.google.com/citations?user=8-L3CegAAAAJ&hl=en), postdoc at the Univerisy of Arizona of Wyant College of Optical Sciences.
+- [Hyukmo Kang](https://scholar.google.com/citations?user=8-L3CegAAAAJ&hl=en), postdoc at the University of Arizona of Wyant College of Optical Sciences.
 
 ## Graduate Students
 - [Jaren Ashcraft](https://www.linkedin.com/in/jashcraf/), graduate student at the University of Arizona Wyant College of Optical Sciences.
@@ -25,26 +25,26 @@ See [Open positions to join our research](join.md) team.
 - Yu-Chia Lin, graduate student at the University of Arizona Physics  [![google scholar badge](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=uLe1uIsAAAAJ), [![ORCiD badge](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)0000-0002-1511-310X](https://orcid.org/0000-0002-1511-310X).
 
 ## Research Staff
-- Manny Montoya, Technical Manager, UA Steward Observatory
-- [Aaron Goldtooth](https://www.linkedin.com/in/aaron-goldtooth/), Research Technician, UA Steward Observatory
-- Jess Johnson, Adaptive Optics Research Scientist, UA Steward Observatory.
-- [Sai Krishanth PM](https://www.linkedin.com/in/sai-krishanth-pulikesi-mannan-30609872/), Research Professional, UA Steward Observatory, [![google scholar badge](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=CTJFXX8AAAAJ&hl=en&oi=sra), [![ORCiD badge](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)0000-0002-9869-6223](https://orcid.org/0000-0002-9869-6223).
-- Cameron Ard, Research Professional, UA Steward Observatory
+- Manny Montoya, Technical Manager at the University of Arizona Steward Observatory.
+- [Aaron Goldtooth](https://www.linkedin.com/in/aaron-goldtooth/), Research Technician at the University of Arizona Steward Observatory.
+- Jess Johnson, Adaptive Optics Research Scientist at the University of Arizona Steward Observatory.
+- [Sai Krishanth PM](https://www.linkedin.com/in/sai-krishanth-pulikesi-mannan-30609872/), Research Professional at the University of Arizona Steward Observatory, [![google scholar badge](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=CTJFXX8AAAAJ&hl=en&oi=sra), [![ORCiD badge](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)0000-0002-9869-6223](https://orcid.org/0000-0002-9869-6223).
+- Cameron Ard, Research Professional at the University of Arizona Steward Observatory.
 
 ## Undergraduate Students
-- Bianca Payan, UArizona undergraduate student in Astronomy and Physics.
-- Guransh Mann, UArizona undergraduate student in Electrical Engineering.
-- Thomas Singelstad, UArizona undergraduate student in Astronomy.
+- Bianca Payan, University of Arizona undergraduate student in Astronomy and Physics.
+- Guransh Mann, University of Arizona undergraduate student in Electrical Engineering.
+- Thomas Singelstad, University of Arizona undergraduate student in Astronomy.
 
 
 ## Collaborators 
 
-Some of UASAL's frequent collaborators include 
+Some of UASAL's frequent collaborators include: 
 
 - The Large Optics Fabrication and Test Lab: [UA LOFT](http://www.loft.optics.arizona.edu/).
-- The eXtreme-Wavefront Control Lab: [UA XWCL](https://xwcl.science)
-- The MIT Space, Telecommunications, Astronomy, and Radiation Lab: [MIT STAR Lab](http://starlab.mit.edu/)
-- The UA Center for Adaptive Optics: [CAAO](https://www.as.arizona.edu/CAAO)
+- The eXtreme-Wavefront Control Lab: [UA XWCL](https://xwcl.science).
+- The MIT Space, Telecommunications, Astronomy, and Radiation Lab: [MIT STAR Lab](http://starlab.mit.edu/).
+- The UA Center for Adaptive Optics: [CAAO](https://www.as.arizona.edu/CAAO).
 
 
 ## Former Graduate Students
@@ -61,7 +61,7 @@ Some of UASAL's frequent collaborators include
 - Ariel Shaver, UArizona undergraduate student in Systems Engineering.
 
 ## Former Staff
-- Robert Thompson, Software and Technical Services Specialist 
+- Robert Thompson, Software and Technical Services Specialist.
 
 
 ## TimeStep Interns
