@@ -23,6 +23,7 @@ We have many open positions for enrolled UA Graduate Students from across the Un
 - [Postdoctoral Research Associate I (Multiple Openings) - Astrobiology Exoplanet: Alien Earths](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/12918?c=arizona)
 - [Administrative Support Assistant II](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/12427?c=arizona)
 - [Research Program Administration Officer II](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/14031?c=arizona)
+- [R&D Software Engineer III](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/14182?c=arizona)
 
 
-_Last Updated 3/22/23_
+Last Updated 3/28/23
