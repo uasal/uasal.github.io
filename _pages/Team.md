@@ -21,7 +21,7 @@ See [Open positions to join our research](join.md) team.
 - [Amit Kumar Jha](https://www.linkedin.com/in/amit-kumar-jha-79b8a6110/), graduate student at the University of Arizona College of Optical Sciences.
 - Kian Milani, graduate student at the Wyant College of Optical Sciences at University of Arizona.
 - Alex Carter, graduate student at the University of Arizona Wyant College of Optical Sciences.
-- [Emory Jenkins](https://www.linkedin.com/in/emory-jenkins/), graduate student at the University of Arizona Wyant College of Optical Sciences.
+- [Emory Jenkins](https://www.linkedin.com/in/emory-jenkins/), graduate student at the University of Arizona Wyant College of Optical Sciences, [![ORCiD badge](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)0000-0001-6829-7910](https://orcid.org/0000-0001-6829-7910).
 - Yu-Chia Lin, graduate student at the University of Arizona Physics  [![google scholar badge](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=uLe1uIsAAAAJ), [![ORCiD badge](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)0000-0002-1511-310X](https://orcid.org/0000-0002-1511-310X).
 
 ## Research Staff
