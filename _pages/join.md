@@ -7,7 +7,7 @@ toc: false
 layout: single
 ---
 
-We have many open positions for enrolled UA Graduate Students from across the University with interests in Astronomy, Optics, and Engineering. Contact [Ewan Douglas](https://www.as.arizona.edu/people/faculty/ewan-douglas) for graduate opportunities.
+We have many open positions for enrolled UA Graduate Students from across the University with interests in Astronomy, Optics, and Engineering. Contact [Ewan Douglas](https://www.as.arizona.edu/people/faculty/ewan-douglas) for graduate opportunities. Undergraduates are accepted for paid research opportunities through the [TIMESTEP Apprenticeship program](https://lavinia.as.arizona.edu/~timestep/timestep-apprenticeship.html).
 
 ## Staff Positions to work with UASAL and CAAO
 
