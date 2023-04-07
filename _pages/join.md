@@ -26,9 +26,8 @@ Opportunities to join our permanent staff:
 - [R&D Mechanical Engineer III](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/13258?c=arizona)
 - [IT Support Computing Analyst II](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/13365?c=arizona)
 - [Grant and Contract Administrator I](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/13822?c=arizona)
-- [Postdoctoral Research Associate I (Multiple Openings) - Astrobiology Exoplanet: Alien Earths](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/12918?c=arizona)
 - [Administrative Support Assistant II](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/12427?c=arizona)
 - [Research Program Administration Officer II](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/14031?c=arizona)
 
 
-Last Updated 3/29/23
+Last Updated 4/7/23
