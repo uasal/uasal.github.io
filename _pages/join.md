@@ -16,6 +16,9 @@ Undergraduates are accepted for paid research opportunities through the [TIMESTE
 ## Staff Positions to work with UASAL and CAAO
 Opportunities to join our permanent staff:
 
+- [Computing Sciences Researcher II](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/15018?c=arizona)
+- [R&D Electrical Engineer I](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/16110?c=arizona)
+- [R&D Mechanical Engineer I](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/16108?c=arizona)
 - [R&D Mechanical Engineer IV](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/13952?c=arizona)
 - [R&D Systems Engineer II](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/14853?c=arizona)
 - [R&D Systems Engineer IV](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/13824?c=arizona)
@@ -23,13 +26,9 @@ Opportunities to join our permanent staff:
 
 ## Other Open Positions in Steward Observatory:
 
-
-- [R&D Mechanical Engineer III](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/13258?c=arizona)
-- [Postdoctoral Research Associate I (Multiple Openings) - Astrobiology Exoplanet: Alien Earths](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/12918?c=arizona)
 - [Postdoctoral Research Associate I -Dr. Steve Ertel](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/14312?c=arizona)
-- [Administrative Support Assistant II](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/12427?c=arizona)
 - [Research Program Administration Officer II](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/14031?c=arizona)
 - [Program Manager (Research Program Administration Manager V)](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/14428?c=arizona) 
 
 
-_Last Updated 5/5/23_
+_Last Updated 5/24/23_
