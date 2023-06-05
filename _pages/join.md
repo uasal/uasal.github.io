@@ -21,7 +21,6 @@ Opportunities to join our permanent staff:
 - [R&D Mechanical Engineer I](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/16108?c=arizona)
 - [R&D Mechanical Engineer IV](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/13952?c=arizona)
 - [R&D Systems Engineer II](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/14853?c=arizona)
-- [R&D Systems Engineer IV](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/13824?c=arizona)
 - [R&D Software Engineer III](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/14182?c=arizona)
 
 ## Other Open Positions in Steward Observatory:
@@ -31,4 +30,4 @@ Opportunities to join our permanent staff:
 - [Program Manager (Research Program Administration Manager V)](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/14428?c=arizona) 
 
 
-_Last Updated 5/24/23_
+_Last Updated 6/5/23_
