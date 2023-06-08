@@ -11,7 +11,7 @@ Our research interest spans from the development of new instruments and missions
 
 Contact [Ewan Douglas](https://www.as.arizona.edu/people/faculty/ewan-douglas) if you are interested in joining our team or collaborating.
 
-Our research is primarily funded by NASA.
+Our research has been funded by NASA, the Arizona [Technology and Research Initiative Fund](https://research.arizona.edu/trif).
 
 
 
