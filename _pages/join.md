@@ -18,16 +18,22 @@ Opportunities to join our permanent staff:
 
 - [Computing Sciences Researcher II](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/15018?c=arizona)
 - [R&D Electrical Engineer I](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/16110?c=arizona)
+- [R&D Electrical Engineer II](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/16520?c=arizona)
 - [R&D Mechanical Engineer I](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/16108?c=arizona)
-- [R&D Mechanical Engineer IV](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/13952?c=arizona)
 - [R&D Systems Engineer II](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/14853?c=arizona)
-- [R&D Software Engineer III](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/14182?c=arizona)
+- [R&D Systems Engineer IV](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/13824?c=arizona)
 
 ## Other Open Positions in Steward Observatory:
 
 - [Postdoctoral Research Associate I -Dr. Steve Ertel](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/14312?c=arizona)
 - [Research Program Administration Officer II](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/14031?c=arizona)
-- [Program Manager (Research Program Administration Manager V)](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/14428?c=arizona) 
+- [Program Manager (Research Program Administration Manager V)](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/14428?c=arizona)
+- [Research Technologist I (Telescope Operator - ARO)](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/16480?c=arizona)
+- [Research Professional I (Part Time) (Extended Temporary Employment)](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/16212?c=arizona)
+- [Research Data Support Specialist II](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/16039?c=arizona)
+- [Research Program Administration Officer II](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/14031?c=arizona)
+- [Research Technician II (Part Time) (Temporary)](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/16634?c=arizona)
+- [Administrative Support Assistant II](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/16632?c=arizona)
+- [Research Laboratory Manager II - RFCML](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/14467?c=arizona)
 
-
-_Last Updated 6/5/23_
+_Last Updated 7/10/23_
