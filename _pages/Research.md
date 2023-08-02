@@ -13,5 +13,7 @@ Contact [Ewan Douglas](https://www.as.arizona.edu/people/faculty/ewan-douglas) i
 
 Our research has been funded by a variety of sponsors including NASA and the Arizona [Technology and Research Initiative Fund](https://research.arizona.edu/trif).
 
-![Word cloud highlighting our research areas](/assets/ADS_UASAL_wordcloud_20230802.png), [Word Cloud Generated from ADS library](https://ui.adsabs.harvard.edu/public-libraries/r6ora761TSasD0yJkA3y-g)
+![Word cloud highlighting our research areas](/assets/ADS_UASAL_wordcloud_20230802.png) 
+[Word Cloud Generated from ADS library](https://ui.adsabs.harvard.edu/public-libraries/r6ora761TSasD0yJkA3y-g)
+
 To directly support our work: lowering the cost of astronomy from space and developing new technologies that help astronomers better image extrasolar planets, you can give to the [UA Foundation](https://give.uafoundation.org/science-astronomy). In the "Other" field, please type either UASAL CubeSats, UASAL Space Coronagraph Project, or Douglas Lab. For more information, see the [Steward Observatory giving page](https://www.as.arizona.edu/Giving)  or contact Ewan Douglas.
