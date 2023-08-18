@@ -72,6 +72,6 @@ Some of UASAL's frequent collaborators include:
 ### 2023-24
 
 ### 2022-23
-Jonathan Moreland
-Neha Joshi
-Utkarsh Upadhyay
+- Jonathan Moreland
+- Neha Joshi
+- Utkarsh Upadhyay
