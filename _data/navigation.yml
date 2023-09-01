@@ -10,6 +10,8 @@ main:
      url: /OpenSourceAndOutreach
    - title: "Facilities"
      url: /Facilities
+   - title: "Blog"
+     url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
