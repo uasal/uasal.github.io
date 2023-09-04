@@ -92,7 +92,7 @@ analytics:
 
 # Site Author
 author:
-  name             : ""
+  name             : "UASAL"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
   location         : "Tucson, AZ"
@@ -272,7 +272,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: splash
+      layout: single
       author_profile: true
       read_time: true
       comments: # true
