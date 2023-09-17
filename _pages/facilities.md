@@ -3,7 +3,7 @@
 permalink: /Facilities/
 title: "Facilities"
 excerpt: "Facilities"
-toc: false
+toc: true
 layout: single
 ---
 
