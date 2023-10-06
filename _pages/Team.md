@@ -62,6 +62,7 @@ Some of UASAL's frequent collaborators include:
 - Kian Milani, undergraduate student at the Wyant College of Optical Sciences at University of Arizona.
 - Bohan Li, undergraduate student in Computer Science.
 - Ariel Shaver, UArizona undergraduate student in Systems Engineering.
+- Bianca Alondra Payan, UArizona undergraduate student in astronomy.
 
 ## Former Staff
 - Robert Thompson, Software and Technical Services Specialist.
