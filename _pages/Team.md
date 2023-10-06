@@ -34,6 +34,7 @@ See [Open positions to join our research](join.md) team.
 - [Sai Krishanth PM](https://www.linkedin.com/in/sai-krishanth-pulikesi-mannan-30609872/), Research Professional at the University of Arizona Steward Observatory, [![google scholar badge](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=CTJFXX8AAAAJ&hl=en&oi=sra), [![ORCiD badge](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)0000-0002-9869-6223](https://orcid.org/0000-0002-9869-6223).
 - Cameron Ard, Research Professional at the University of Arizona Steward Observatory.
 - Bianca Alondra Payan, Research Professional at the University of Arizona Steward Observatory.
+- [Ruby Huie](www.linkedin.com/in/rubyhuie), Research Professional at the University of Arizona Steward Observatory.
 
 ## Undergraduate Students
 - Guransh Mann, University of Arizona undergraduate student in Electrical Engineering.
