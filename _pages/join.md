@@ -19,16 +19,19 @@ Opportunities to join our permanent staff:
 - [Computing Sciences Researcher II](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/15018?c=arizona)
 - [R&D Electrical Engineer I](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/16110?c=arizona)
 - [R&D Electrical Engineer II](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/16520?c=arizona)
-- [R&D Mechanical Engineer I](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/16108?c=arizona)
 - [R&D Systems Engineer II](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/14853?c=arizona)
-- [Research Program Administration Officer II - CAAO](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/17285?c=arizona)
+- [Postdoctoral Research Associate I - Dr Ewan Douglas](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/17343?c=arizona)
 
 ## Other Open Positions in Steward Observatory:
 
 - [Program Manager (Research Program Administration Manager V)](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/14428?c=arizona)
-- [Research Professional I (Part Time) (Extended Temporary Employment)](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/16212?c=arizona)
-- [Administrative Associate (Administrative Support Assistant III)](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/16618?c=arizona)
 - [Buyer, Senior](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/16818?c=arizona)
 - [Program Coordinator, Senior - Dr. Kate Daniel (Research Program Administration Officer II) (UPDATED)](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/13380?c=arizona)
+- [Administrative Support Assistant II](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/18008?c=arizona)
+- [Outreach Instructional Assistant III - Mt. Lemmon Science Center (Mt. Lemmon) (Part Time)](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/17622?c=arizona)
+- [Research Program Administrator](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/17719?c=arizona)
+- [Researcher/Scientist IV](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/17837?c=arizona)
+- [Assistant Research Professor](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/17648?c=arizona)
+- [Specialist, Health and Safety](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/17968?c=arizona)
 
-_Last Updated 8/15/23_
+_Last Updated 10/16/23_
