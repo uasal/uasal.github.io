@@ -14,10 +14,8 @@
     {% include head/custom.html %}
 
     {% if page.custom_redirect %}
-    <script>
       <meta http-equiv="refresh" content="0;url={{ page.custom_redirect }}" />  
-    </script>
-    { % endif % }    
+    {% endif %}   
   </head>
 
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
