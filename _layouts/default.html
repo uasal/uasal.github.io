@@ -17,16 +17,24 @@
       <meta http-equiv="refresh" content="0;url={{ page.custom_redirect }}" />  
     {% endif %}   
 
-
+    {% assign docIndexURL = "/DocumentsIndex" %}
+    {% assign documentsIndex = site.pages | where: "permalink", "/DocumentsIndex/" | first %}
     <script>
     function redirect_doc_index() {
-      const docIndexURL = "/DocumentsIndex";
-      const path = "{{ page.url | json }}";
-      const redirectURL = "{{ page.custom_redirect | json }}";
-      if (path.startsWith(docIndexURL)) {
-        let target = path.replace(docIndexURL, '')
-        console.log(path);
-        window.location.href = redirectURL + target;
+      // Redirect if page not found
+      if  ("{{ page.url | json }}" == "/404.html") {
+        const docIndexURL = "{{ docIndexURL | json }}";
+        const path = window.location.pathname;
+        const redirectURL = "{{ documentsIndex.custom_redirect | json }}";
+        if (path.startsWith(docIndexURL)) {
+          let target = path.replace(docIndexURL, '')
+          console.log(path);
+          if ( target == '/' ){
+          window.location.href = redirectURL + target;
+          } else {
+            window.location.href = redirectURL + '/docs' + target;
+          }
+        }
       }
     }; 
     
