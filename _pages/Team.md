@@ -72,7 +72,7 @@ Some of UASAL's frequent collaborators include:
 ## TimeStep Interns
 
 ### 2023-24
-
+- Philip Klaassen
 ### 2022-23
 - Jonathan Moreland
 - Neha Joshi
