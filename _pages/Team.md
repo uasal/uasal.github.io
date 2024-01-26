@@ -26,7 +26,8 @@ See [Open positions to join our research](join.md) team.
 - [Yu-Chia Lin](https://dreamjade.github.io/yuchia/), graduate student at the University of Arizona Physics  [![google scholar badge](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=uLe1uIsAAAAJ), [![ORCiD badge](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)0000-0002-1511-310X](https://orcid.org/0000-0002-1511-310X).
 - [Kevin Derby](https://www.linkedin.com/in/derbyk/), graduate student at the University of Arizona Wyant College of Optical Sciences. [![google scholar badge](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=Rtl6n80AAAAJ&hl=en&oi=ao)
 - [Chia-Lin Ko](https://www.linkedin.com/in/chialinko/), graduate student at the University of Arizona Steward Observatory, [![google scholar badge](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=unD0fd8AAAAJ&hl=en), [![ORCiD badge](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)0000-0003-2158-8141](https://orcid.org/0000-0003-2158-8141).
-
+- [Solvay Blomquist](https://www.linkedin.com/in/solvay-blomquist-66b9231a6/), graduate student at the University of Arizona Wyant College of Optical Sciences, [![google scholar badge](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=lB3LNXAAAAAJ&hl=en&oi=ao).
+  
 ## Research Staff
 - Manny Montoya, Technical Manager at the University of Arizona Steward Observatory.
 - [Aaron Goldtooth](https://www.linkedin.com/in/aaron-goldtooth/), Research Technician at the University of Arizona Steward Observatory.
