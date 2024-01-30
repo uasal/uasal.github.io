@@ -74,6 +74,7 @@ Some of UASAL's frequent collaborators include:
 
 ### 2023-24
 - Philip Klaassen
+- Diego Torres
 ### 2022-23
 - Jonathan Moreland
 - Neha Joshi
