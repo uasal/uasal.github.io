@@ -11,7 +11,7 @@ author:
 ---
 
 
-Partial listing of UASAL and Steward Observatory Publications related to space telescope concepts. For other topic areas see [Research.md].
+Partial listing of UASAL and Steward Observatory Publications related to space telescope concepts. For other topic areas see [Research](Research.md).
 
 
 | Title | Initial Publication Date | DOI | URL|
