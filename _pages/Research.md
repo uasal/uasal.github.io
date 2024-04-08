@@ -7,7 +7,9 @@ toc: false
 layout: single
 ---
 
-Our research interest spans from the development of new instruments and missions for space science to radiative transfer modeling of extrasolar star systems. For our previous work, see our public library from the NASA ADS: [UASAL Publications Library](https://ui.adsabs.harvard.edu/public-libraries/r6ora761TSasD0yJkA3y-g) and [team member]({{ '/Team' | relative_url}}) individual publications.
+Our research interest spans from the development of new instruments and missions for space science to radiative transfer modeling of extrasolar star systems. For our previous work, see our public library from the NASA ADS: [UASAL Publications Library](https://ui.adsabs.harvard.edu/public-libraries/r6ora761TSasD0yJkA3y-g) and [team member]({{ '/Team' | relative_url}}) individual publications.  
+
+A focused list of [space telescope development specific publications](spacetelpubs.md) is also available.
 
 Contact [Ewan Douglas](https://www.as.arizona.edu/people/faculty/ewan-douglas) if you are interested in joining our team or collaborating.
 
