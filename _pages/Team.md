@@ -82,4 +82,4 @@ Some of UASAL's frequent collaborators include:
 - Neha Joshi
 - Utkarsh Upadhyay
 
-![UASAL Research Group being silly](/assets/group_photo-2.jpg)
+![UASAL Research Group being silly Spring 2024](/assets/group_photo-2.jpg)
