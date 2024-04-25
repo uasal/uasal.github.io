@@ -24,8 +24,8 @@ Last week, on April 15th, Jaren Ashcraft successfully defended his thesis focuse
 *Jaren with his in-person thesis committee! Left to right: Prof. Daewook Kim, Prof. Ewan Douglas, Dr. Jaren Ashcraft, Prof. Lars Furenlid. Not pictured: Prof. Olivier Guyon*
 
 
-While he's still around for a few more weeks, we are all going to miss him dearly. Even though I've only joined the group relatively recently, I could immediately tell how Jaren's positive and welcoming attitude has fostered such a wonderful working environment within UASAL, and this is clearly evident in the efforts some of our group members undertook to make sure his defense was special! 
-Postdoc Ramya and grad student Kian went through extra effort to obtain these awesome shirts with the logo of Jaren's open-source package PokE for the entire group, all for us to wear at his defense. 
+While he's still around for a few more weeks, we are all going to miss him dearly when he takes off. Even though I've only joined the group relatively recently, I could immediately tell how Jaren's positive and welcoming attitude has fostered such a wonderful working environment within UASAL, and this is clearly evident in the efforts some of our group members undertook to make sure his defense was special! 
+Postdoc Ramya and grad student Kian went through extra effort to obtain these awesome shirts with the logo of Jaren's open-source package PokE for the entire group to wear at his defense! 
 
 
 <img src="/assets/PoKE_shirts.jpg" alt="poke shirts" width="800"/>
@@ -33,11 +33,11 @@ Postdoc Ramya and grad student Kian went through extra effort to obtain these aw
 *Photo credit: Ashcraft family*
 
 
-Professor Ewan also prepared a laser-etched wooden sword as a gift, intended for the so-called ``snake-fight" a PhD student may undertake as part of their dissertation defense.
+Ewan also prepared a laser-etched wooden sword as a gift, intended for the so-called "snake-fight" a PhD student may undertake as part of their dissertation defense.
 
 <img src="/assets/jaren_sword.png" alt="jaren's sword" width="600"/>
 
-*Yes, Professor Ewan gave Jaren sword-fighting lessons too.*
+*Yes, Ewan gave Jaren sword-fighting lessons too. Kian described the training effort as "wholesome."*
 
 
 At any rate, congratulations to the new Dr. Ashcraft once again!! We're excited to see what the future brings you!
@@ -46,5 +46,8 @@ At any rate, congratulations to the new Dr. Ashcraft once again!! We're excited 
 
 *Dr. Ashcraft celebrating in the LOFT lab space. Photo credit: Maggie Kautz*
 
-P.S., we're hoping to have more blog authors and more regular posts, so stay tuned!
+P.S., if you're interested in some of the awesome open-source software Jaren has developed, check out his [github!](https://github.com/Jashcraf)
+
+
+P.P.S., we're hoping to have more blog authors and more regular posts, so stay tuned!
 
