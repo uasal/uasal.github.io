@@ -21,9 +21,7 @@ See [Open positions to join our research](join.md) team.
 
 ## Graduate Students
 - [Jaren Ashcraft](https://jashcraf.github.io/), graduate student at the University of Arizona Wyant College of Optical Sciences.
-- [Amit Kumar Jha](https://www.linkedin.com/in/amit-kumar-jha-79b8a6110/), graduate student at the University of Arizona College of Optical Sciences.
 - Kian Milani, graduate student at the Wyant College of Optical Sciences at University of Arizona.
-- Alex Carter, graduate student at the University of Arizona Wyant College of Optical Sciences.
 - [Emory Jenkins](https://www.linkedin.com/in/emory-jenkins/), graduate student at the University of Arizona Wyant College of Optical Sciences, [![google scholar badge](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=0Gs1L98AAAAJ&hl=en), [![ORCiD badge](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)0000-0001-6829-7910](https://orcid.org/0000-0001-6829-7910).
 - [Yu-Chia Lin](https://dreamjade.github.io/yuchia/), graduate student at the University of Arizona Physics  [![google scholar badge](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=uLe1uIsAAAAJ), [![ORCiD badge](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)0000-0002-1511-310X](https://orcid.org/0000-0002-1511-310X).
 - [Kevin Derby](https://www.linkedin.com/in/derbyk/), graduate student at the University of Arizona Wyant College of Optical Sciences. [![google scholar badge](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=Rtl6n80AAAAJ&hl=en&oi=ao)
@@ -57,6 +55,8 @@ Some of UASAL's frequent collaborators include:
 ## Former Graduate Students
 - [Erin Maier](https://www.linkedin.com/in/erinmaier/), Observer Technician II, Lowell Observatory. Graduate student, University of Arizona Steward Observatory.
 - Bohan Li, graduate student in Computer Science at University of Arizona.
+- [Amit Kumar Jha](https://www.linkedin.com/in/amit-kumar-jha-79b8a6110/), graduate student at the University of Arizona College of Optical Sciences.
+- Alex Carter, graduate student at the University of Arizona Wyant College of Optical Sciences.
 
 
 ### Former Undergraduate Students
@@ -77,6 +77,7 @@ Some of UASAL's frequent collaborators include:
 ### 2023-24
 - Philip Klaassen
 - Diego Torres
+- Rohan Desai-Hunt
 ### 2022-23
 - Jonathan Moreland
 - Neha Joshi
