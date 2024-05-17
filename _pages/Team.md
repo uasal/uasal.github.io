@@ -29,6 +29,7 @@ See [Open positions to join our research](join.md) team.
 - [Kevin Derby](https://www.linkedin.com/in/derbyk/), graduate student at the University of Arizona Wyant College of Optical Sciences. [![google scholar badge](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=Rtl6n80AAAAJ&hl=en&oi=ao)
 - [Chia-Lin Ko](https://www.linkedin.com/in/chialinko/), graduate student at the University of Arizona Steward Observatory, [![google scholar badge](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=unD0fd8AAAAJ&hl=en), [![ORCiD badge](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)0000-0003-2158-8141](https://orcid.org/0000-0003-2158-8141).
 - [Solvay Blomquist](https://www.linkedin.com/in/solvay-blomquist-66b9231a6/), graduate student at the University of Arizona Wyant College of Optical Sciences, [![google scholar badge](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=lB3LNXAAAAAJ&hl=en&oi=ao).
+- [Marcus Klupar](https://www.linkedin.com/in/marcus-klupar-0937b7226/), graduate student at the University of Arizona College of Engineering 
   
 ## Research Staff
 - Manny Montoya, Technical Manager at the University of Arizona Steward Observatory.
