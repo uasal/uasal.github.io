@@ -15,10 +15,6 @@ As part of efforts to advance exoplanet imaging technologies we operate a vacuum
 
 ![SCoOB Assembled in our laboratory’s clean tent from Ashcraft et al 2022](/assets/testbed_assembled.png)
 
-### Prototyping and 3D printing
-
-UA students should feel free to contact us if they have space or astronomy related components they would like to prototype. Available equipment includes: a Dremel LC40 laser cutter and 3D printers, a Dremel 3D40, and a Markforged Onyx Pro printer that allow rapid prototyping.
-
 ### Optical Metrology and Testing
 
 Our lab's 4D PhaseCam 6000 interferometer allows vibration insensitive metrology of optical systems such as space telescope assemblies as well as testing of individual optical components on nanometer scales.
@@ -29,9 +25,22 @@ Our lab facilities at Steward Observatory include a vibration isolated Thermal V
 - The chamber interior is 1.2m in diameter and 2.2m in length. The usable vertical dimension with the vibration isolating optical bench installed is less than 0.5m.
 - The vacuum's capability is as low as 1e-8 via turbomolecular pump (1e-8 Torr with LN2 cold plate).
 - The design temperature range spans from -150 C to 150 C Maximum with the temp ramp rate: +/- 2 C/min. 
-- LN2: Chamber cooling is provided via LN2. 
+- LN2: Chamber cooling is provided via LN2.
+- Minus-K Passive Vibration isolation stage
 
 ![Exterior of thermal vacuum chamber](/assets/IMG_1365.JPG)
+
+### Applied Research Building
+
+ We build flight instruments in a 2000 sq foot  [UArizona Applied Research Building](
+https://research.arizona.edu/facilities-units/applied-research-building) ISO7 (class 10,000) cleanroom laboratory equipped with optical testbenches and clean flow  benches.
+
+ ![Applied Research Building Clean Room](/assets/ARB_lab20240514_5818.jpeg)
+ 
+### Prototyping and 3D printing
+
+UA students should feel free to contact us if they have space or astronomy related components they would like to prototype. Available equipment includes: a Dremel LC40 laser cutter and 3D printers, a Dremel 3D40, and a Markforged Onyx Pro printer that allow rapid prototyping.
+
 
 ### Ground-based Astronomical Observatories
 
