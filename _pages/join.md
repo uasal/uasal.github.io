@@ -15,7 +15,7 @@ Undergraduates are accepted for paid research opportunities through the [TIMESTE
 
 ## Staff Positions to work with UASAL and CAAO
 Opportunities to join our permanent staff:
-
+- [Director, Space Telescope Programs](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/20142?c=arizona)
 - [Computing Sciences Researcher II](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/15018?c=arizona)
 - [Software Engineer, Adaptive Optics Controls](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/19191?c=arizona)
 - [Adaptive Optics Instrument Engineer (R&D Optical Engineer III)](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/19088?c=arizona)
