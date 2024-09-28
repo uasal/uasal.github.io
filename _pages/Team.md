@@ -35,7 +35,8 @@ See [Open positions to join our research](join.md) team.
 - Jess Johnson, Adaptive Optics Research Scientist at the University of Arizona Steward Observatory.
 - Cameron Ard, Research Professional at the University of Arizona Steward Observatory.
 - Bianca Alondra Payan, Research Professional at the University of Arizona Steward Observatory.
-- [Ruby Huie](www.linkedin.com/in/rubyhuie), Research Professional at the University of Arizona Steward Observatory.
+- [Ruby Huie](https://www.linkedin.com/in/rubyhuie/), Research Professional at the University of Arizona Steward Observatory.
+- [Stephanie Rinaldi](https://www.linkedin.com/in/stephanie-rinaldi-20013/), R&D Systems Engineer at the University of Arizona Steward Observatory.
 
 ## Undergraduate Students
 
