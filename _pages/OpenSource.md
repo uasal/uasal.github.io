@@ -18,8 +18,8 @@ The UASAL team is an active contributor to projects including:
 
 - The Physical Optics Propagation in Python library, [POPPY](https://github.com/spacetelescope/poppy). A BSD licensed open source project, POPPY provides user-friendly, high-performance set of diffraction simulation tools in both the Fresnel and Fraunhofer regimes, broadly applicably but particularly well suited to astronomical telescopes and high-contrast imaging. 
 - The Exoplanet Open-Source Imaging Mission Simulator,[EXOSIMS](https://github.com/dsavransky/EXOSIMS).
-- pyKLIP, a python library for PSF subtraction for both exoplanet and disk imaging, [pyKLIP](https://bitbucket.org/pyKLIP/pyklip)
+- pyKLIP, a python library for PSF subtraction for both exoplanet and disk imaging, [pyKLIP](https://bitbucket.org/pyKLIP/pyklip).
 - poke, a python libary for Polarization Ray Tracing and Gaussian Beamlet Decomposition developed by UASAL supported by a NASA Space Technology Graduate Research Opportunity, [poke](https://github.com/Jashcraf/poke) (pronounced poh-keh).
-- The [Space Hardware Handbook](https://uasal.github.io/spacehardwarehandbook-public/) an open space instrumentation development reference hosted on [github](https://github.com/uasal/spacehardwarehandbook-public)
-- The eXtreme Wavefront Control Toolkit [XWCToolkit](https://github.com/uasal/XWCToolkit) in collaboration with the MagAO-X team
-
+- The [Space Hardware Handbook](https://uasal.github.io/spacehardwarehandbook-public/) an open space instrumentation development reference hosted on [github](https://github.com/uasal/spacehardwarehandbook-public).
+- The eXtreme Wavefront Control Toolkit [XWCToolkit](https://github.com/uasal/XWCToolkit) in collaboration with the MagAO-X team.
+- The Toy Coronagraph Python Package [Toy_Coronagraph] (https://github.com/dreamjade/Toy_Coronagraph).
