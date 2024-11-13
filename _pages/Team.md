@@ -28,7 +28,7 @@ See [Open positions to join our research](join.md) team.
 - [Solvay Blomquist](https://www.linkedin.com/in/solvay-blomquist-66b9231a6/), graduate student at the University of Arizona Wyant College of Optical Sciences, [![google scholar badge](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=lB3LNXAAAAAJ&hl=en&oi=ao).
 - [Marcus Klupar](https://www.linkedin.com/in/marcus-klupar-0937b7226/), graduate student at the University of Arizona College of Engineering
 - [Cat Hathaway](https://www.linkedin.com/in/cathathaway?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app/) graduate student at the University of Arizona Wyant College of Optical Sciences
-- [Aaron Goldtooth](https://www.linkedin.com/in/aaron-goldtooth/), graduate student at the University of Arizona Steward Observatory.
+- [Aaron Goldtooth](https://www.linkedin.com/in/aaron-goldtooth/), graduate student at the University of Arizona Steward Observatory [![ORCiD badge](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)0000-0001-9695-4121](https://orcid.org/0000-0001-9695-4121).
 - [Sai Krishanth PM](https://www.linkedin.com/in/sai-krishanth-pulikesi-mannan-30609872/), graduate student at the University of Arizona Wyant College of Optical Sciences, [![google scholar badge](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=CTJFXX8AAAAJ&hl=en&oi=sra), [![ORCiD badge](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)0000-0002-9869-6223](https://orcid.org/0000-0002-9869-6223).
   
 ## Research Staff
