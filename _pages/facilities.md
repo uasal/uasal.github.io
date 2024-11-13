@@ -45,3 +45,12 @@ UA students should feel free to contact us if they have space or astronomy relat
 ### Ground-based Astronomical Observatories
 
 Steward Observatory is a partner and home to a wide range of world-class observatories, for details see our [observatories page](observatories.md).
+
+### Custom Microfabricated Optics
+
+UA is home to multiple micro and nanofabrication facilities used by our lab. We have developed processes for fabricating optics in silicon nitride membranes on silicon wafer substrates, such as precision pinholes and combination reflective Lyot stops/self coherent camera masks. Benefits include rapid prototyping, reduced cost, and high precision.
+
+<p align="middle">
+  <img src="/assets/P8.png" alt="Scanning Electron Microscope View of Pinhole" width="350"/>
+  <img src="/assets/diagram.png" alt="Cross-section of Microfabricated Pinhole" width="600"/>
+</p>
