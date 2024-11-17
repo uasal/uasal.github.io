@@ -10,7 +10,7 @@ UASAL has a broad portfolio of facilities and equipment to enable quick turn aro
 
 ### ground based observatories
 UA offers a world-class research environment in ground and space-based astrophysics with strong interdisciplinary programs across the Departments of Astronomy, Optical Sciences, Planetary Sciences, Physics, and the UA Data Science Institute. 
-UASAL collaborates closely with UA fabrication facilities including the Richard F. Caris Mirror Lab, the University of Arizona Nano Fabrication Center, and the Arizona Space Institute.  
+UASAL collaborates closely with UA fabrication facilities including the Richard F. Caris Mirror Lab, the University of Arizona Nano Fabrication Center, the Imaging Technology Laboratory, and the Arizona Space Institute.  
 
 ### The Space Coronagraph Optical Bench (SCoOB)
 As part of efforts to advance exoplanet imaging technologies we operate a vacuum-compatible, high-contrast testbed. Our testbed is currently configured for visible wavelengths and featuring a 952 actuator deformable mirror.  
