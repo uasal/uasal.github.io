@@ -50,7 +50,7 @@ UA students should feel free to contact us if they have space or astronomy relat
 
 ### Custom Microfabricated Optics
 
-UA is home to multiple micro and nanofabrication facilities used by our lab, including [https://mfc.arizona.edu/](https://mfc.arizona.edu/) and the [SC Micro/Nano Fabrication Cleanroom](SC Micro/Nano Fabrication Cleanroom). We have developed processes for fabricating optics in silicon nitride membranes on silicon wafer substrates, such as precision micro-scale pinholes [Jenkins et al 2023, figure below](https://arxiv.org/abs/2309.04604) and combination reflective Lyot stops/self coherent camera masks. 
+UA is home to multiple micro and nanofabrication facilities used by our lab, including [https://mfc.arizona.edu/](https://mfc.arizona.edu/) and the [SC Micro/Nano Fabrication Cleanroom](https://wp.optics.arizona.edu/osccleanroom/facilities/). We have developed processes for fabricating optics in silicon nitride membranes on silicon wafer substrates, such as precision micro-scale pinholes [Jenkins et al 2023, figure below](https://arxiv.org/abs/2309.04604) and combination reflective Lyot stops/self coherent camera masks. 
 
 <p align="middle">
   <img src="/assets/P8.png" alt="Scanning Electron Microscope View of Pinhole from Jenkins et al 2023" width="350"/>
