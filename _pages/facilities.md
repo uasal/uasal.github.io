@@ -8,7 +8,8 @@ layout: single
 ---
 UASAL has a broad portfolio of facilities and equipment to enable quick turn around studies of new approaches to astronomical space instrumentation. 
 
-# University of Arizona
+# UA Space Astrophysics Lab Facilities
+
 UA offers a world-class research environment in ground and space-based astrophysics with strong interdisciplinary programs across the Departments of Astronomy, Optical Sciences, Planetary Sciences, Physics, and the UA Data Science Institute. 
 UASAL collaborates closely with UA fabrication facilities including the Richard F. Caris Mirror Lab, the University of Arizona Nano Fabrication Center, the Imaging Technology Laboratory, and the Arizona Space Institute.  
 
@@ -48,15 +49,20 @@ https://research.arizona.edu/facilities-units/applied-research-building) ISO7 (c
 
 UA students should feel free to contact us if they have space or astronomy related components they would like to prototype. UASAL equipment includes: a Dremel LC40 laser cutter and 3D printers, a Dremel 3D40, and a Markforged Onyx Pro printer that allow rapid prototyping. A far
 
+
+## UA Core facilities 
 ### Custom Microfabricated Optics
 
-UA is home to multiple micro and nanofabrication facilities used by our lab, including [https://mfc.arizona.edu/](https://mfc.arizona.edu/) and the [SC Micro/Nano Fabrication Cleanroom](https://wp.optics.arizona.edu/osccleanroom/facilities/). We have developed processes for fabricating optics in silicon nitride membranes on silicon wafer substrates, such as precision micro-scale pinholes [Jenkins et al 2023, figure below](https://arxiv.org/abs/2309.04604) and combination reflective Lyot stops/self coherent camera masks. 
+UA is home to multiple micro and nanofabrication facilities used by our lab, including [https://mfc.arizona.edu/](https://mfc.arizona.edu/) and the [SC Micro/Nano Fabrication Cleanroom](https://wp.optics.arizona.edu/osccleanroom/facilities/). UASAL has developed processes for fabricating optics in silicon nitride membranes on silicon wafer substrates, such as precision micro-scale pinholes [Jenkins et al 2023, figure below](https://arxiv.org/abs/2309.04604) and combination reflective Lyot stops/self coherent camera masks. 
 
 <p align="middle">
   <img src="/assets/P8.png" alt="Scanning Electron Microscope View of Pinhole from Jenkins et al 2023" width="350"/>
   <img src="/assets/diagram.png" alt="Cross-section of Microfabricated Pinhole from Jenkins et al 2023" width="600"/>
 </p>
 
+## Scanning Electron Microscopy
+
+UASAL has experience and access to the [K-ALFAA, The Kuiper-Arizona Laboratory for Astromaterials Analysis](https://kalfaa.lpl.arizona.edu/facility/) located in the Lunar and Planetary Laboratory on campus,  for scanning electron microscopy of devices and samples.
 
 ### Ground-based Astronomical Observatories
 
