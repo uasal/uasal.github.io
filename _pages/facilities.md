@@ -65,7 +65,7 @@ UA is home to multiple micro and nanofabrication facilities used by our lab, inc
 UASAL has experience and access to the [K-ALFAA, The Kuiper-Arizona Laboratory for Astromaterials Analysis](https://kalfaa.lpl.arizona.edu/facility/) located in the Lunar and Planetary Laboratory on campus,  for scanning electron microscopy of devices and samples.
 
 ### Testing
-The UA applied research building is home to a range of space [Space Assembly & Test Facilities](https://space.arizona.edu/test-systems-services) including a large TVAC, a Sentek Dynamics   slip table (HST900M, 3000kg payload, 5-1500Hz),  high-bays, and a radio anachoic chamber.
+The UA applied research building is home to a range of space [Space Assembly & Test Facilities](https://space.arizona.edu/test-systems-services) including a large space simulation chamber (Internal Shroud Dimensions: 129″ at Widest X 118″ High X 20′-6″ Deep (to rear Chevron wall)), a Sentek Dynamics   slip table (HST900M, 3000kg payload, 5-1500Hz),  high-bays, and a radio anachoic chamber.
 
 <p align="middle">
   <img src="/assets/20230403_UofAAppliedResearch Lab_13.jpg" alt="ARB Grand Openign Photo of Space Simulation Chamber" width="350"/>
