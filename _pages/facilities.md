@@ -68,7 +68,7 @@ UASAL has experience and access to the [K-ALFAA, The Kuiper-Arizona Laboratory f
 The UA applied research building is home to a range of space [Space Assembly & Test Facilities](https://space.arizona.edu/test-systems-services) including a large TVAC, a Sentek Dynamics   slip table (HST900M, 3000kg payload, 5-1500Hz),  high-bays, and a radio anachoic chamber.
 
 <p align="middle">
-  <img src="/assets/assets/20230403_UofAAppliedResearch Lab_13.jpg" alt="ARB Grand Openign Photo of Space Simulation Chamber" width="350"/>
+  <img src="/assets/20230403_UofAAppliedResearch Lab_13.jpg" alt="ARB Grand Openign Photo of Space Simulation Chamber" width="350"/>
 </p>
 
 
