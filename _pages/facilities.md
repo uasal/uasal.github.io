@@ -40,7 +40,6 @@ Our lab facilities at Steward Observatory include a vibration isolated Thermal V
 
 ### Applied Research Building
 
-The UA applied research building is home to a range of space [Space Assembly & Test Facilities](https://space.arizona.edu/test-systems-services) including a large TVAC, vibe table, and radio anachoic chamber.
 We build flight instruments in a 2000 sq foot  [UArizona Applied Research Building](
 https://research.arizona.edu/facilities-units/applied-research-building) ISO7 (class 10,000) cleanroom laboratory equipped with optical testbenches and clean flow  benches.
 
@@ -61,9 +60,18 @@ UA is home to multiple micro and nanofabrication facilities used by our lab, inc
   <img src="/assets/diagram.png" alt="Cross-section of Microfabricated Pinhole from Jenkins et al 2023" width="600"/>
 </p>
 
-## Scanning Electron Microscopy
+### Scanning Electron Microscopy
 
 UASAL has experience and access to the [K-ALFAA, The Kuiper-Arizona Laboratory for Astromaterials Analysis](https://kalfaa.lpl.arizona.edu/facility/) located in the Lunar and Planetary Laboratory on campus,  for scanning electron microscopy of devices and samples.
+
+### Testing
+The UA applied research building is home to a range of space [Space Assembly & Test Facilities](https://space.arizona.edu/test-systems-services) including a large TVAC, a Sentek Dynamics   slip table (HST900M, 3000kg payload, 5-1500Hz),  high-bays, and a radio anachoic chamber.
+
+<p align="middle">
+  <img src="/assets/assets/20230403_UofAAppliedResearch Lab_13.jpg" alt="ARB Grand Openign Photo of Space Simulation Chamber" width="350"/>
+</p>
+
+
 
 ### Ground-based Astronomical Observatories
 
