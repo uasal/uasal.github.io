@@ -40,7 +40,8 @@ Our lab facilities at Steward Observatory include a vibration isolated Thermal V
 
 ### Applied Research Building
 
- We build flight instruments in a 2000 sq foot  [UArizona Applied Research Building](
+The UA applied research building is home to a range of space [Space Assembly & Test Facilities](https://space.arizona.edu/test-systems-services) including a large TVAC, vibe table, and radio anachoic chamber.
+We build flight instruments in a 2000 sq foot  [UArizona Applied Research Building](
 https://research.arizona.edu/facilities-units/applied-research-building) ISO7 (class 10,000) cleanroom laboratory equipped with optical testbenches and clean flow  benches.
 
  ![Applied Research Building Clean Room](/assets/ARB_lab20240514_5818.jpeg)
