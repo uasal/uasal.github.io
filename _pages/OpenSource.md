@@ -12,6 +12,7 @@ layout: single
 
 Members of the lab are active in many outreach and inclusion programs, including the University of Arizona [Astronomy Camp](https://www.astronomycamp.org), the [Tucson Initiative for Minority Engagement in Science and TEchnology Program (TIMESTEP)](https://timestep.arizona.edu/) and Laser Fun Day.
 
+
 # Open Projects
 
 The UASAL team is an active contributor to projects including:
@@ -23,3 +24,5 @@ The UASAL team is an active contributor to projects including:
 - The [Space Hardware Handbook](https://uasal.github.io/spacehardwarehandbook-public/) an open space instrumentation development reference hosted on [github](https://github.com/uasal/spacehardwarehandbook-public).
 - The eXtreme Wavefront Control Toolkit [XWCToolkit](https://github.com/uasal/XWCToolkit) in collaboration with the MagAO-X team.
 - The Toy Coronagraph Python Package [Toy_Coronagraph](https://github.com/dreamjade/Toy_Coronagraph).
+
+A more complete list can be found at our [GitHub Organization :octocat:  ](https://github.com/uasal)
