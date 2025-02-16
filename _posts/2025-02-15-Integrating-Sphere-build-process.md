@@ -1,22 +1,14 @@
-<table style="border-collapse: collapse; width: 100%; text-align: left;">
-  <tr>
-    <th style="border: 1px solid black; padding: 8px;">title</th>
-    <th style="border: 1px solid black; padding: 8px;">categories</th>
-    <th style="border: 1px solid black; padding: 8px;">tags</th>
-    <th style="border: 1px solid black; padding: 8px;">author</th>
-  </tr>
-  <tr>
-    <td style="border: 1px solid black; padding: 8px;">Integrating Sphere Build Process</td>
-    <td style="border: 1px solid black; padding: 8px;"><span style="border: 1px solid gray; padding: 4px; display: inline-block;">design</span></td>
-    <td style="border: 1px solid black; padding: 8px;">
-      <span style="border: 1px solid gray; padding: 4px; display: inline-block;">reports</span>
-      <span style="border: 1px solid gray; padding: 4px; display: inline-block;">blog</span>
-    </td>
-    <td style="border: 1px solid black; padding: 8px;"><span style="border: 1px solid gray; padding: 4px; display: inline-block;">Nikoli Cooper</span></td>
-  </tr>
-</table>
-
-Commercial Integrating Spheres on the market are high quality, yet excessively expensive. It is in excess of $2000 for a 6" diameter Sphere from Edmund Optics. In order to mitigate the cost of our CMOS characterization lab, we have devised a procedure to create our own small Integrating Sphere (up to 7" diameter) from scratch.  
+---
+title: "Integrating Sphere Build Process"
+categories:
+  - design
+tags:
+  - report
+  - blog
+author:
+  - "Nikoli Cooper"
+---
+Commercial Integrating Spheres on the market are high quality, yet excessively expensive. A 6" diameter Sphere from Edmund Optics is nearly $2500. In order to mitigate the cost of our CMOS characterization lab, we have devised a procedure to create our own small Integrating Sphere (up to 7" diameter) from scratch.  
 
 ## Design Process  
 
@@ -30,17 +22,21 @@ We designed one 6" and one 7" diameter Integrating Sphere in SolidWorks with a f
 ## Fabrication  
 
 1. The two Integrating Spheres were 3D printed on a **Prusa mk4** in PLA. They both have a **2.5" diameter outlet port**, and a **1" diameter inlet port** for use with **[Edmund Optic's 1" SMA adapter](https://www.edmundoptics.com/p/1-sma-adapter-for-4-6-integrating-sphere/32111/)** for optical fiber attachment. Each sphere was printed in two halves and connected via a flange with **8 M6 bolts**.  
-2. Following printing, the Spheres were **rigorously sanded** with **60 and 80 grit sandpaper** to remove imperfections and texture from the 3D printing process. Any small holes in the inside surface were coated with **Elmer's glue** to prevent paint leakage.  
-3. **2 coats of aluminum silver paint** were applied first to make the spheres light-tight and to reflect any light above **900 nm**, where the white wall's reflectivity starts to drop off. **Both spheres used a total of 2oz of silver paint**.  
-4. 6 coats of **[Edmund Optic's Avian B white wall with Titanium Dioxide](https://www.edmundoptics.com/p/250ml-pre-mix-white-reflectance-coating/26992/)** were used as the main high-reflectivity coating. Paint was applied in thin layers and diluted with **water (around 50%)** for airbrush application. **Coating both spheres used around 1/2 - 2/3 of a bottle of Avian B**.  
+2. Following printing, the Spheres were **rigorously sanded with 60 and 80 grit sandpaper** to remove imperfections and texture from the 3D printing process. Any small holes in the inside surface were coated with **Elmer's glue** to prevent paint leakage.  
+3. **2 coats of aluminum silver paint** were applied first to make the spheres light-tight and to reflect light above **900 nm**, where the white wall's reflectivity starts to drop off. **Both spheres used a total of 30 ml of silver paint**.  
+4. 6 coats of **[Avian B white wall with Titanium Dioxide](https://www.edmundoptics.com/p/250ml-pre-mix-white-reflectance-coating/26992/)** were used as the main high-reflectivity coating. Paint was applied in thin layers and diluted with water (around 50%) for airbrush application. **Coating both spheres used around 1/2 - 2/3 of a 250 ml bottle of Avian B**.  
 
 ## Testing  
 
-The main ways to evaluate an Integrating Sphere are by its **sphere multiplier** and its **reflectivity**. The calculation methods for these numbers are highlighted in **[this paper](http://www.moria.de/tech/integrating-sphere/)**.  
+The main ways to evaluate an Integrating Sphere are by its **sphere multiplier** and its **reflectance**. The calculation methods for these numbers are highlighted in **[this paper](http://www.moria.de/tech/integrating-sphere/)**.  
 
-**Reflectivity** is calculated from the sphere multiplier and geometric conditions of the sphere itself. The sphere multiplier is given by:  
+**Reflectance** is calculated from the sphere multiplier and geometric conditions of the sphere itself. The sphere multiplier is given by:  
 
 Mₛ = (output flux / input flux) × (sphere surface / input port surface) 
+
+And reflectance is given by:
+
+Rₛ =  𝟷 / ( (𝟷 / Mₛ) + 𝟷 - port fraction )
 
 The only unknown value here is **output flux**.  
 
@@ -61,14 +57,56 @@ Thus, the output flux is calculated as:
 
 **(1 / f) × r × i = output flux**
 
-From here, we can directly compute the **sphere multiplier** and **reflectivity**.  
+From here, we can directly compute the **sphere multiplier** and **reflectance**.  
 
 ### 2. Results  
 
 #### 6" Sphere:  
 - **Sphere multiplier:** 6.84  
-- **Reflectivity:** 91.25%  
+- **Reflectance:** 91.25%  
 
 #### 7" Sphere:  
 - **Sphere multiplier:** (to be determined)  
-- **Reflectivity:** (to be determined)  
+- **Reflectance:** (to be determined)
+
+## Total Cost for a 6" and a 7" Integrating Sphere:
+<table>
+    <thead>
+        <tr>
+            <th>Item</th>
+            <th>Cost ($)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Avian B Paint</td>
+            <td>280</td>
+        </tr>
+        <tr>
+            <td>PLA Filament</td>
+            <td>25</td>
+        </tr>
+        <tr>
+            <td>Silver Paint</td>
+            <td>20</td>
+        </tr>
+        <tr>
+            <td>Airbrush</td>
+            <td>20</td>
+        </tr>
+        <tr>
+            <td>SMA Adapter</td>
+            <td>285</td>
+        </tr>
+        <tr>
+            <td>Hardware Set</td>
+            <td>10</td>
+        </tr>
+    </tbody>
+    <tfoot>
+        <tr>
+            <td><strong>Total + tax</strong></td>
+            <td><strong>704</strong></td>
+        </tr>
+    </tfoot>
+</table>
