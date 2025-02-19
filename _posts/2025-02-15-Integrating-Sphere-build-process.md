@@ -15,9 +15,9 @@ Commercial Integrating Spheres on the market are high quality, yet expensive. A 
 
 We designed one 6" and one 7" diameter Integrating Sphere in SolidWorks with a few design criteria:  
 
-- **Surface area covered by ports must be 5% max.**  
-- **Spheres must be 3D printable on a Prusa mk4.**  
-- **Outlet port must be able to cover the majority of a Sony IMX455, and the inlet port must be set up for an optical fiber.**  
+- **Surface area covered by ports must be 5% max,** from [Building an Integrating Sphere](http://www.moria.de/tech/integrating-sphere/)
+- **Spheres must be 3D printable on a Prusa mk4. (7" max diameter, with flange)**  
+- **Outlet port must be able to cover the majority of a Sony IMX455 (1.7" diagonal), and the inlet port must be set up for an optical fiber.**  
 - **A baffle must block light from directly exiting from the inlet port.**  
 
 ## Fabrication  
@@ -53,7 +53,7 @@ The output flux is measured using a **PixeLINK PL-D753MU-BL CMOS sensor**.
 - A second image is taken **through the integrating sphere** at the same exposure time.  
 - The ratio between the average signal with and without the integrating sphere is **r**.  
 - The fraction of the output port covered by the sensor is **f**.  
-
+- Error calculated as Standard Deviation from 10 separate output flux measurements per sphere.
 Thus, the output flux is calculated as:  
 
 **(1 / f) × r × i = output flux**
@@ -65,11 +65,11 @@ From here, we can directly compute the **sphere multiplier** and **reflectance**
 #### 6" Sphere:  
 - **Sphere multiplier:** 7.06  
 - **Reflectance:** 91.6%  
-
+- **Standard Deviation in sphere multiplier:** 0.134 
 #### 7" Sphere:  
 - **Sphere multiplier:** 8.07 
 - **Reflectance:** 92.0%
-
+- **Standard Deviation in sphere multiplier:** 0.145
 ## Total Cost for a 6" and a 7" Integrating Sphere:
 <table>
     <thead>
