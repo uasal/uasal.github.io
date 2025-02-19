@@ -8,7 +8,8 @@ tags:
 author:
   - "Nikoli Cooper"
 ---
-Commercial Integrating Spheres on the market are high quality, yet excessively expensive. A 6" diameter Sphere from Edmund Optics is nearly $2500. In order to mitigate the cost of our CMOS characterization lab, we have devised a procedure to create our own small Integrating Sphere (up to 7" diameter) from scratch.  
+Commercial Integrating Spheres on the market are high quality, yet expensive. A 6" diameter can cost upwards of $2000. In order to minimize the cost of CMOS characterization, we have devised a procedure to create our own small Integrating Sphere (up to 7" diameter) from scratch.  
+**This characterization is distinct from sensor characterization performed at the [UA Imaging Technology Lab](https://itl.arizona.edu/) discussed in other blog posts (e.g. https://uasal.github.io/testing/sensor_reports/)**.
 
 ## Design Process  
 
