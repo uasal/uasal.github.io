@@ -24,7 +24,7 @@ We designed one 6" and one 7" diameter Integrating Sphere in SolidWorks with a f
 1. The two Integrating Spheres were 3D printed on a **Prusa mk4** in PLA. They both have a **2.5" diameter outlet port**, and a **1" diameter inlet port** for use with **[Edmund Optic's 1" SMA adapter](https://www.edmundoptics.com/p/1-sma-adapter-for-4-6-integrating-sphere/32111/)** for optical fiber attachment. Each sphere was printed in two halves and connected via a flange with **8 M6 bolts**.  
 2. Following printing, the Spheres were **rigorously sanded with 60 and 80 grit sandpaper** to remove imperfections and texture from the 3D printing process. Any small holes in the inside surface were coated with **Elmer's glue** to prevent paint leakage.  
 3. **2 coats of aluminum silver paint** were applied first to make the spheres light-tight and to reflect light above **900 nm**, where the white wall's reflectivity starts to drop off. **Both spheres used a total of 30 ml of silver paint**.  
-4. 6 coats of **[Avian B white wall with Titanium Dioxide](https://www.edmundoptics.com/p/250ml-pre-mix-white-reflectance-coating/26992/)** were used as the main high-reflectivity coating. Paint was applied in thin layers and diluted with water (around 50%) for airbrush application. **Coating both spheres used around 1/2 - 2/3 of a 250 ml bottle of Avian B**.  
+4. 6 coats of **[Avian B white wall with Barrium Sulfate](https://www.edmundoptics.com/p/250ml-pre-mix-white-reflectance-coating/26992/)** were used as the main high-reflectivity coating. Paint was applied in thin layers and diluted with water (around 50%) for airbrush application. **Coating both spheres used around 1/2 - 2/3 of a 250 ml bottle of Avian B**.  
 
 ## Testing  
 
@@ -62,12 +62,12 @@ From here, we can directly compute the **sphere multiplier** and **reflectance**
 ### 2. Results  
 
 #### 6" Sphere:  
-- **Sphere multiplier:** 6.84  
-- **Reflectance:** 91.25%  
+- **Sphere multiplier:** 7.06  
+- **Reflectance:** 91.6%  
 
 #### 7" Sphere:  
-- **Sphere multiplier:** (to be determined)  
-- **Reflectance:** (to be determined)
+- **Sphere multiplier:** 8.07 
+- **Reflectance:** 92.0%
 
 ## Total Cost for a 6" and a 7" Integrating Sphere:
 <table>
