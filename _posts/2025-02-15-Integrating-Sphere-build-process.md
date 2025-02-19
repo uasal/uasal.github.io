@@ -47,8 +47,8 @@ The output flux is measured using a **PixeLINK PL-D753MU-BL CMOS sensor**.
 - The optical fiber is pointed at the sensor from an arbitrary distance. **Broadband (400 - 2200 nm) light** was used.  
 - The sensor captures an image at **3 ms exposure**, yielding an image within its dynamic range.  
 - Astropy is used to **calculate the average signal** from the image.  
-- The fraction of the light cone surface at the sensor plane covered by the sensor is taken as **k**.  
-- Then, **input flux × k = i**, where **i** is the flux required to illuminate the sensor to the measured average signal.  
+- The fraction of the surface of the light cone at the sensor plane that the sensor covers is taken as **k**.  
+- Then, **input flux × k = i**, where **i** is the flux required to illuminate the sensor to the average signal measured.  
 - A second image is taken **through the integrating sphere** at the same exposure time.  
 - The ratio between the average signal with and without the integrating sphere is **r**.  
 - The fraction of the output port covered by the sensor is **f**.  
