@@ -116,5 +116,5 @@ From here, we can directly compute the **sphere multiplier** and **reflectance**
 
 ### STL previews for Integrating Spheres:
 
-- [6" Sphere](./assets/6_inch_Integrating_Sphere.STL)
-- [7" Sphere](./assets/7_inch_Integrating_Sphere.STL)
+- [6" Sphere](../assets/6_inch_Integrating_Sphere.STL)
+- [7" Sphere](../assets/7_inch_Integrating_Sphere.STL)
