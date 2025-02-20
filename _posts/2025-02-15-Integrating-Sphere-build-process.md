@@ -9,6 +9,9 @@ author:
   - "Nikoli Cooper, TIMESTEP Apprentice"
 
 ---
+
+Author: Nikoli Cooper, UA undergraduate TIMESTEP Apprentice.
+
 Commercial Integrating Spheres on the market are high quality, yet expensive. A 6" diameter can cost upwards of $2000. In order to minimize the cost of CMOS characterization, we have devised a procedure to create our own small Integrating Sphere (up to 7" diameter) from scratch.  
 **This characterization is distinct from sensor characterization performed at the [UA Imaging Technology Lab](https://itl.arizona.edu/) discussed in other blog posts (e.g. https://uasal.github.io/testing/sensor_reports/)**.
 
