@@ -20,7 +20,7 @@ We designed one 6" and one 7" diameter Integrating Sphere in SolidWorks with a f
 - **Spheres must be 3D printable on a Prusa mk4. (7" max diameter, with flange)**  
 - **Outlet port must be able to cover the majority of a Sony IMX455 (1.7" diagonal), and the inlet port must be set up for an optical fiber.**  
 - **A baffle must block light from directly exiting from the inlet port.**
-<img src="/assets/Two_Spheres_with_Fiber.jpg" alt="6 inch and 7 inch diameter Integrating Spheres" width="800"/>
+<img src="/assets/blog_images/2025-02-15-Integrating-Sphere-build-process-Two_Spheres_with_Fiber.jpg" alt="6 inch and 7 inch diameter Integrating Spheres" width="800"/>
 
 ## Fabrication  
 
@@ -116,5 +116,5 @@ From here, we can directly compute the **sphere multiplier** and **reflectance**
 
 ### STL previews for Integrating Spheres:
 
-- [6" Sphere](../assets/6_inch_Integrating_Sphere.STL)
-- [7" Sphere](../assets/7_inch_Integrating_Sphere.STL)
+- [6" Sphere](../assets/blog_images/2025-02-15-Integrating-Sphere-build-process-6_inch_Integrating_Sphere.STL)
+- [7" Sphere](../assets/blog_images/2025-02-15-Integrating-Sphere-build-process-7_inch_Integrating_Sphere.STL)
