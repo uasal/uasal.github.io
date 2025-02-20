@@ -1,0 +1,9 @@
+# Authors
+
+Nikoli Cooper:
+  name        : "Nikoli Cooper"
+  bio         : ""
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github-square"
+      url: "https://www.github.com/nikocooper"
