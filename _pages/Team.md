@@ -13,6 +13,9 @@ Principal Investigator [Ewan Douglas](https://www.as.arizona.edu/people/faculty/
 
 See [Open positions to join our research](join.md) team.
 
+## Research Faculty
+- [Corey Fucetola](https://www.linkedin.com/in/corey-fucetola-ab3a101/), Research Assistant Professor, University of Arizona Steward Observatory, [![ORCiD badge](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)0000-0002-8657-8537](https://orcid.org/0000-0002-8657-8537)
+
 ## Postdoctoral Researchers
 - [Ramya M Anche](https://www.linkedin.com/in/ramyamanjunath/), postdoc at the University of Arizona Steward Observatory.
 - [Hyukmo Kang](https://scholar.google.com/citations?user=8-L3CegAAAAJ&hl=en), postdoc at the University of Arizona of Wyant College of Optical Sciences.
