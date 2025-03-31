@@ -15,20 +15,13 @@ Undergraduates are accepted for paid research opportunities through the [TIMESTE
 
 ## Staff Positions to work with UASAL and CAAO
 Opportunities to join our permanent staff:
-- [Director, Space Telescope Programs](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/20142?c=arizona)
-- [Postdoctoral Research Associate I - UArizona CAAO & Space Astrophysics Lab](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/18803?c=arizona)
+- [R&D Electrical Engineer II](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/20615?c=arizona)
+- [Computing Sciences Researcher II](https://arizona.csod.com/ux/ats/careersite/4/requisition/21883/application?c=arizona&jobboardid=0#1)
 
 
 ## Other Open Positions in Steward Observatory:
-
-- [Research Manager IV - ETS (Multiple Positions)](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/18837?c=arizona)
-- [Research Program Administrator](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/20616?c=arizona)
 - [R&D Electrical Engineer II](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/20615?c=arizona)
-- [Postdoctoral Research Associate I](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/20531?c=arizona)
-- [Software Engineer, LFAST (Multiple Positions)](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/20565?c=arizona)
-- [Research Technologist I (Telescope Operator)](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/20463?c=arizona)
-- [Mechanical Engineer, LFAST](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/20461?c=arizona)
-- [Postdoctoral Research Associate I - SORAL (Part Time)](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/20163?c=arizona)
+- [Postdoctoral Research Associate I](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/21910?c=arizona)
+- [Chief Engineer, RFCML Metrology](https://arizona.csod.com/ux/ats/careersite/4/requisition/21476/application?c=arizona&jobboardid=0#1)
 
-
-_Last Updated 09/20/24_
+_Last Updated 03/31/2025_
