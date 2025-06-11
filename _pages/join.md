@@ -16,7 +16,7 @@ Undergraduates are accepted for paid research opportunities through the [TIMESTE
 ## Staff Positions to work with UASAL and CAAO
 Opportunities to join our permanent staff:
 - [R&D Electrical Engineer II](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/20615?c=arizona)
-- [Computing Sciences Researcher II](https://arizona.csod.com/ux/ats/careersite/4/requisition/21883/application?c=arizona&jobboardid=0#1)
+- [Computing Sciences Researcher II](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/21883?c=arizona)
 
 
 ## Other Open Positions in Steward Observatory:
