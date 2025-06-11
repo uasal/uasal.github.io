@@ -17,6 +17,7 @@ Undergraduates are accepted for paid research opportunities through the [TIMESTE
 Opportunities to join our permanent staff:
 - [R&D Electrical Engineer II](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/20615?c=arizona)
 - [Computing Sciences Researcher II](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/21883?c=arizona)
+- [R&D Optical Engineer III](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/22856?c=arizona)
 
 
 ## Other Open Positions in Steward Observatory:
