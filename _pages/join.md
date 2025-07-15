@@ -16,14 +16,14 @@ Undergraduates are accepted for paid research opportunities through the [TIMESTE
 ## Staff Positions to work with UASAL and CAAO
 Opportunities to join our permanent staff:
 - [R&D Systems Engineer IV](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/22820?c=arizona)
-- [R&D Electrical Engineer II](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/20615?c=arizona)
-- [Computing Sciences Researcher II](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/21883?c=arizona)
+- [R&D Electrical Engineer II](https://arizona.con/20615?c=arizona)
+- [Mechanical Engineer II (Multiple Positions)]()
 - [R&D Optical Engineer III](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/22856?c=arizona)
+- [Software Manager](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/23359?c=arizona&sq=req23359)
 
 
 ## Other Open Positions in Steward Observatory:
-- [R&D Electrical Engineer II](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/20615?c=arizona)
-- [Postdoctoral Research Associate I](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/21910?c=arizona)
-- [Chief Engineer, RFCML Metrology](https://arizona.csod.com/ux/ats/careersite/4/requisition/21476/application?c=arizona&jobboardid=0#1)
+- [Chief Engineer, RFCML Metrology](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/21476?c=arizona&sq=req21476)
+- [Postdoctoral Research Associate I (Multiple Positions)](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/21926?c=arizona&sq=req21926)
 
-_Last Updated 03/31/2025_
+_Last Updated 07/15/2025_
