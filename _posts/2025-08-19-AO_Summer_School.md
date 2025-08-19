@@ -53,10 +53,10 @@ Later, we hung out at the arcade and enjoyed some fun games.
 Finally, we hit the karaoke bar where, to my surprise, I enjoyed watching Josh and Katie lose their voices.
 
 
-## All in ALL
+## All in All
 From the lessons learned, to the friendships formed, to the rock-hard dorm room mattress, AO Summer School was an unforgettable experience—one that a mere blog can’t fully capture. And with that, I bid farewell to AO Summer School, and to you, dear reader.
 
-- Marcus Klupar
+-- Marcus Klupar
 
 Quote of the Blog: "It is not where you start, but where you stand" - me
 
