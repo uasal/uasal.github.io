@@ -9,7 +9,8 @@ After a quick flight we landed in LAX to catch another connecting flight to the 
 
 After checking into our rooms, we met some friends from the Gemini telescope and the University of Victoria. We decided to travel down to Santa Cruz and explore the city.
 
-(Add photo of elixer bar and hammocks)
+<img src="/assets/AO_Summer_School_2025/hammock_bar.png" alt="hammock bar" width="800"/>
+
 
 ## Day 2 (Day 1 of Summer School)
 
