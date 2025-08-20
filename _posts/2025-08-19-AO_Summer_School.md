@@ -25,7 +25,7 @@ Day 2 ended with a reception at the CfAO Atrium where we got our eye balls measu
 
 Day 3 started off in a similar fashion to day 2, however, I was more excited to get down and dirty with the concepts of wavefront sensing and reconstruction. We learned the theory behind the Shack-Hartman WFS and the Pyramid WFS in addition to some others. We next transition from presentations to hands on labs, where we go to build and play with our own AO kit.
 
-<img src="/assets/AO_Summer_School_Photos_2025/ao_kit.HEIC" alt="Hammock elixer shop" width="800"/>  
+<img src="/assets/AO_Summer_School_Photos_2025/ao_kit.PNG" alt="Hammock elixer shop" width="800"/>  
 
 *We stopped at a elixir tea shop in downtown Santa Cruz* 
 
