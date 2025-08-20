@@ -7,9 +7,9 @@ I woke up early on Sunday morning as excitement about the coming week kept me fr
 
 *Josh enjoying first class* 
 
-After a quick flight we landed in LAX to catch another connecting flight to the tech hub of America and the "Heart of Silicon Valley", the San Jose airport. In the San Jose airport we enjoyed multiple ad campaigns about AI and how it will improve my work (Will AI push to main?). From here we needed to catch a quick 45 minute uber from the airport to the UCSC campus. However, once we started driving we ran into immense traffic due to a car accident (Why does San Jose only have one road and so many people?). Our uber driver, who spoke no English, bobbed and weaved through traffic trying to get us to campus in a timely manner. But alas to no avail we had to tough out the traffic. A 45 minute uber slowly and with much agony turned into a 2+ hour trip. He pulled out google translate and told us that he was sorry for the inconvenience but hinted that he had an idea to pass the time. He whipped out his iPad with lighting speed and placed it on the dash. With a slight chuckle and twinkle in his eye he played "Happy Gilmore 2" in English with Spanish subtitles and English narration (which is arguably the only way to watch this movie). Time flied and eventually we made it the UCSC campus where we then checked into out dorm rooms.
+After a quick flight we landed in LAX to catch another connecting flight to the tech hub of America and the "Heart of Silicon Valley", the San Jose airport. In the San Jose airport we enjoyed multiple ad campaigns about AI and how it will improve my work (Will AI push to main?). From here we needed to catch a quick 45 minute uber from the airport to the UCSC campus. However, once we started driving we ran into immense traffic due to a car accident (Why does San Jose only have one road and so many people?). Our uber driver, who spoke no English, bobbed and weaved through traffic trying to get us to campus in a timely manner. But alas to no avail we had to tough out the traffic. A 45 minute uber slowly and with much agony turned into a 2+ hour trip. He pulled out google translate and told us that he was sorry for the inconvenience but hinted that he had an idea to pass the time. He whipped out his iPad with lighting speed and placed it on the dash. With a slight chuckle and twinkle in his eye he played "Happy Gilmore 2" in English with Spanish subtitles and English narration (which is arguably the only way to watch this movie). Time flew by and eventually we made it the UCSC campus where we then checked into out dorm rooms.
 
-After checking into our rooms, we met some friends from the Gemini telescope and the University of Victoria. We decided to travel down to Santa Cruz and explore the city.
+After checking into our rooms, we met some friends from the Gemini Observatory and the University of Victoria. We decided to travel down to Santa Cruz and explore the city.
 
 <img src="/assets/AO_Summer_School_Photos_2025/hammock_bar.PNG" alt="Hammock elixer shop" width="800"/>  
 
@@ -17,7 +17,7 @@ After checking into our rooms, we met some friends from the Gemini telescope and
 
 ## Day 2 (Day 1 of Summer School)
 
-Day 2 started off early with breakfast at the college 9 and 10 dining halls (The food was exactly as you would expect and gave flash backs to my freshman year). The summer school then began promptly at 9am where we enjoyed great talks from Becky Jenson-Clem (Introduction to AO for astronomy), Becky and Phil Hinz (AO the game), Renate Kupke (Introduction to Ray Optics), Nicole Putnam (Introduction to AO for vision science). In these talks we learned valuable information that would prove vital for the hands on labs that would take place in the coming days. In addition to these talks, students presented there work in a poster session.
+Day 2 started off early with breakfast at the college 9 and 10 dining halls (The food was exactly as you would expect and gave me flash backs to my freshman year). The summer school then began promptly at 9am where we enjoyed great talks from Becky Jenson-Clem (Introduction to AO for astronomy), Becky and Phil Hinz (AO the game), Renate Kupke (Introduction to Ray Optics), Nicole Putnam (Introduction to AO for vision science). In these talks we learned valuable information that would prove vital for the hands on labs that would take place in the coming days. In addition to these talks, students presented their work in a poster session.
 
 Day 2 ended with a reception at the CfAO Atrium where we got our eye balls measured...
 
@@ -47,19 +47,19 @@ Day 5 marched on with presentations from Nour Skaf (Control Theory), Bruce Macin
 
 <img src="/assets/AO_Summer_School_Photos_2025/sleepy_time2.jpeg" alt="sleepy time2" width="800"/>  
 
-*Sleepy time immediatly after Emiel's talk.* 
+*Sleepy time immediately after Emiel's talk.* 
 
 ## Day 6 (Final Day)
 
 Day 6 made headway, you guessed it, in the same way as the previous days. I was interested in the Astro photonics talk by Kevin Bundy. In this talk I learned about photonic logic gates which apparently can cause phase kicks (goodbye traditional DM, AHAH I JOKE). Finally, we enjoyed an amazing talk about AO in space which was presented by Rus Belikov. He presented a high level overview of how AO system in conjunction with coronagraphs work. He then dived a little deeper in to EFC and other speckle nulling methods. Overall, I enjoyed this talk since I now feel like I have enough basic knowledge to understand what other people in my lab have been talking about for the past two years....
 
-Finally, we ended our AO summer school journey with awards ... that were based on our eye ball measurements from earlier in the week. We have a few winners. First being Chai-Lin, who won smallest pupil!
+Finally, we ended our AO summer school journey with awards ... that were based on our eye ball measurements from earlier in the week. We have a few winners. First being Chia-Lin, who won smallest pupil!
 
 <img src="/assets/AO_Summer_School_Photos_2025/chialin_award.jpeg" alt="chialin_award" width="800"/>  
 
 *Just 3.4 mm, for reference mine was 7.3 mm* 
 
-And some from our very own sister lab, MagAO-x! Josh won the worst optic award by measuring a strehl of just 1%. His award was title the Hubble Space Telescope Award <sub>(before the manned mission to fix the optic)</sub>. Parker won the Adaptive Optic award for the pupil with the largest diameter change between measurements. Unfortunate Katie and I did not win any awards, which initially made us sad but we quickly remembered that not winning an award means that our eyes are not broken.
+And some from our very own sister lab, MagAO-x! Josh won the worst optic award by measuring a strehl of just 1%. His award was title the Hubble Space Telescope Award <sub>(before the manned mission to fix the optic)</sub>. Parker won the Adaptive Optic award for the pupil with the largest diameter change between measurements. Unfortunately Katie and I did not win any awards, which initially made us sad but we quickly remembered that not winning an award means that our eyes are not broken.
 
 <img src="/assets/AO_Summer_School_Photos_2025/josh_award.png" alt="josh_award" width="800"/>
 
