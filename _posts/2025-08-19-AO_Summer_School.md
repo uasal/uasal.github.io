@@ -1,3 +1,4 @@
+---
 title: "AO Summer School 2025"
 categories:
   - students
@@ -7,7 +8,7 @@ tags:
   - blog
 author:
   - "Marcus Klupar"
-
+---
 # AO Summer School 2025
 
 ## Day 1 (Travel to UCSC)
