@@ -3,7 +3,9 @@
 ## Day 1 (Travel to UCSC)
 I woke up early on Sunday morning as excitement about the coming week kept me from my slumber. Katie, Josh, Parker, and I stopped for some breakfast at the Tucson airport and waited for boarding to start. As we waited, I quickly realized that I was a second class citizen in the eyes of delta airlines. Josh, the most experienced traveler with numerous trips to Chile, enjoyed a upgrade to first class while I suffered in the last row with a chair that would not recline.
 
-(Add photo of josh in first class)
+<img src="/assets/AO_Summer_School_Photos_2025/josh_first_class.jpeg" alt="Josh in first class" width="500"/>  
+
+*Josh enjoying first class* 
 
 After a quick flight we landed in LAX to catch another connecting flight to the tech hub of America and the "Heart of Silicon Valley", the San Jose airport. In the San Jose airport we enjoyed multiple ad campaigns about AI and how it will improve my work (Will AI push to main?). From here we needed to catch a quick 45 minute uber from the airport to the UCSC campus. However, once we started driving we ran into immense traffic due to a car accident (Why does San Jose only have one road and so many people?). Our uber driver, who spoke no English, bobbed and weaved through traffic trying to get us to campus in a timely manner. But alas to no avail we had to tough out the traffic. A 45 minute uber slowly and with much agony turned into a 2+ hour trip. He pulled out google translate and told us that he was sorry for the inconvenience but hinted that he had an idea to pass the time. He whipped out his iPad with lighting speed and placed it on the dash. With a slight chuckle and twinkle in his eye he played "Happy Gilmore 2" in English with Spanish subtitles and English narration (which is arguably the only way to watch this movie). Time flied and eventually we made it the UCSC campus where we then checked into out dorm rooms.
 
@@ -17,15 +19,15 @@ After checking into our rooms, we met some friends from the Gemini telescope and
 
 Day 2 started off early with breakfast at the college 9 and 10 dining halls (The food was exactly as you would expect and gave flash backs to my freshman year). The summer school then began promptly at 9am where we enjoyed great talks from Becky Jenson-Clem (Introduction to AO for astronomy), Becky and Phil Hinz (AO the game), Renate Kupke (Introduction to Ray Optics), Nicole Putnam (Introduction to AO for vision science). In these talks we learned valuable information that would prove vital for the hands on labs that would take place in the coming days. In addition to these talks, students presented there work in a poster session.
 
-(Add photo of Parker/Josh with funky glasses)
-
 Day 2 ended with a reception at the CfAO Atrium where we got our eye balls measured...
 
 ## Day 3 
 
 Day 3 started off in a similar fashion to day 2, however, I was more excited to get down and dirty with the concepts of wavefront sensing and reconstruction. We learned the theory behind the Shack-Hartman WFS and the Pyramid WFS in addition to some others. We next transition from presentations to hands on labs, where we go to build and play with our own AO kit.
 
-(Add photo of friends playing with the AO kit)
+<img src="/assets/AO_Summer_School_Photos_2025/ao_kit.HEIC" alt="Hammock elixer shop" width="800"/>  
+
+*We stopped at a elixir tea shop in downtown Santa Cruz* 
 
 ## Day 4
 
