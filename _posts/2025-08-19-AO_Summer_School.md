@@ -68,7 +68,7 @@ Finally, we ended our AO summer school journey with awards ... that were based o
 
 <img src="/assets/AO_Summer_School_Photos_2025/chialin_award.jpeg" alt="chialin_award" width="800"/>  
 
-*Just 3.4 mm, for reference mine was 7.3 mm* 
+*Just 3.4 mm, for reference mine was 6.7 mm* 
 
 And some from our very own sister lab, MagAO-x! Josh won the worst optic award by measuring a strehl of just 1%. His award was title the Hubble Space Telescope Award <sub>(before the manned mission to fix the optic)</sub>. Parker won the Adaptive Optic award for the pupil with the largest diameter change between measurements. Unfortunately Katie and I did not win any awards, which initially made us sad but we quickly remembered that not winning an award means that our eyes are not broken.
 
