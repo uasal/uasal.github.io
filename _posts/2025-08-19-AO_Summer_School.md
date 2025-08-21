@@ -44,7 +44,7 @@ Day 4 continues with presentation and labs. For the presentation portion we lear
 
 <img src="/assets/AO_Summer_School_Photos_2025/wfs_lab.png" alt="wfs lab" width="800"/>  
 
-*Katie geeking on how well its wokring* 
+*Katie geeking on how well its working* 
 
 We also got a tour of the SEAL and UCO shops.
 
@@ -89,7 +89,7 @@ Later, we hung out at the arcade and enjoyed some fun games.
 
 *Josh and Parker up to their neck in dance dance revolution.*
 
-Finally, we hit the karaoke bar where, to my surprise, I enjoyed watching Josh and Katie lose their voices. *(Again, not picture ... <sub>but come to my office and I'll show you</sub>. )*
+Finally, we hit the karaoke bar where, to my surprise, I enjoyed watching Josh and Katie lose their voices. *(Again, not pictured ... <sub>but come to my office and I'll show you</sub>. )*
 
 
 ## All in All
