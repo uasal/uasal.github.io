@@ -10,6 +10,7 @@ author:
   - "Marcus Klupar"
 ---
 # AO Summer School 2025
+_Editor's Note: Marcus' post below describes this year's [CfAO Summer School](https://cfao.science.ucsc.edu/ao-summer-school/) at UCSC. for more banana slug content see our sibling CAAO [MagAO-X lab's blog posts](https://xwcl.science/magao-x/ao-summer-school-part-iii-the-return-of-the-higher-orders/)._
 
 ## Day 1 (Travel to UCSC)
 I woke up early on Sunday morning as excitement about the coming week kept me from my slumber. Katie, Josh, Parker, and I stopped for some breakfast at the Tucson airport and waited for boarding to start. As we waited, I quickly realized that I was a second class citizen in the eyes of delta airlines. Josh, the most experienced traveler with numerous trips to Chile, enjoyed a upgrade to first class while I suffered in the last row with a chair that would not recline.
