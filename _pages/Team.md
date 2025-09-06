@@ -7,24 +7,26 @@ toc: false
 layout: single
 ---
 
-![UASAL Research Group, 2023-2024](/assets/group_photo-1.jpg)
+![UASAL Research Group, 2023-2024](/assets/UASAL_Group_Edited_v1_Fall2025.jpg)
 
 Principal Investigator [Ewan Douglas](https://www.as.arizona.edu/people/faculty/ewan-douglas) is an Assistant Professor at the University of Arizona Steward Observatory, [![google scholar badge](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=-mwPSu8AAAAJ&view_op=list_works&sortby=pubdate), [![ORCiD badge](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)0000-0002-0813-4308](https://orcid.org/0000-0002-0813-4308).
 
 See [Open positions to join our research](join.md) team.
 
 ## Research Faculty
+- Patrick Ingraham, Associate Research Professor, University of Arizona Steward Observatory
 - [Corey Fucetola](https://www.linkedin.com/in/corey-fucetola-ab3a101/), Research Assistant Professor, University of Arizona Steward Observatory, [![ORCiD badge](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)0000-0002-8657-8537](https://orcid.org/0000-0002-8657-8537)
+- [Kyle Van Gorkom](https://kvangorkom.github.io/), Assistant Research Professor, University of Arizona Steward Observatory
+- [Ramya M Anche](https://www.linkedin.com/in/ramyamanjunath/), Assistant Research Professor, University of Arizona Steward Observatory.
+- Kelsey Miller, Assistant Research Professor, University of Arizona Steward Observatory
 
 ## Postdoctoral Researchers
-- [Ramya M Anche](https://www.linkedin.com/in/ramyamanjunath/), postdoc at the University of Arizona Steward Observatory.
 - [Hyukmo Kang](https://scholar.google.com/citations?user=8-L3CegAAAAJ&hl=en), postdoc at the University of Arizona of Wyant College of Optical Sciences.
 - [Justin Hom](https://www.linkedin.com/in/justin-hom-566317110), postdoc at the University of Arizona Steward Observatory, [![google scholar badge](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?view_op=list_works&hl=en&user=MNv4whMAAAAJ), [![ORCiD badge](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)0000-0002-0813-4308](https://orcid.org/0000-0001-9994-2142).
 - [Sanchit Sabhlok](https://orcid.org/0000-0002-8780-8226), postdoc at the University of Arizona Steward Observatory.
 - [Saraswathi Kalyani Subramanian](www.linkedin.com/in/saraswathikalyani), postdoc at the University of Arizona Steward Observatory.
 
 ## Graduate Students
-- Kian Milani, graduate student at the Wyant College of Optical Sciences at University of Arizona.
 - [Emory Jenkins](https://www.linkedin.com/in/emory-jenkins/), graduate student at the University of Arizona Wyant College of Optical Sciences, [![google scholar badge](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=0Gs1L98AAAAJ&hl=en), [![ORCiD badge](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)0000-0001-6829-7910](https://orcid.org/0000-0001-6829-7910).
 - [Yu-Chia Lin](https://dreamjade.github.io/yuchia/), graduate student at the University of Arizona Physics  [![google scholar badge](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=uLe1uIsAAAAJ), [![ORCiD badge](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)0000-0002-1511-310X](https://orcid.org/0000-0002-1511-310X).
 - [Kevin Derby](https://www.linkedin.com/in/derbyk/), graduate student at the University of Arizona Wyant College of Optical Sciences. [![google scholar badge](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=Rtl6n80AAAAJ&hl=en&oi=ao)
@@ -35,6 +37,8 @@ See [Open positions to join our research](join.md) team.
 - [Aaron Goldtooth](https://www.linkedin.com/in/aaron-goldtooth/), graduate student at the University of Arizona Steward Observatory [![ORCiD badge](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)0000-0001-9695-4121](https://orcid.org/0000-0001-9695-4121).
 - [Sai Krishanth PM](https://www.linkedin.com/in/sai-krishanth-pulikesi-mannan-30609872/), graduate student at the University of Arizona Wyant College of Optical Sciences, [![google scholar badge](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=CTJFXX8AAAAJ&hl=en&oi=sra), [![ORCiD badge](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)0000-0002-9869-6223](https://orcid.org/0000-0002-9869-6223).
 - [Yael Brynjegard-Bialik](https://www.linkedin.com/in/yael-brynjegard-bialik/), graduate student at the University of Arizona College of Engineering, [![google scholar badge](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=4hNWt_cAAAAJ&hl=en).
+- Nicholas Schragal, graduate student at the University of Arizona Steward Observatory
+- Pierre Nicolas, graduate student at the Wyant College of Optical Sciences
   
 ## Research Staff
 - Manny Montoya, Technical Manager at the University of Arizona Steward Observatory.
@@ -58,7 +62,7 @@ Some of UASAL's frequent collaborators include:
 
 
 ## Former Postdocs
-- [Kyle Van Gorkom](https://kvangorkom.github.io/), Assistant Research Professor, University of Arizona Steward Observatory
+
 
 ## Former Graduate Students
 - [Jaren Ashcraft](https://jashcraf.github.io/), NASA Sagan Fellow, University of California, Santa Barbara
@@ -66,6 +70,7 @@ Some of UASAL's frequent collaborators include:
 - Bohan Li, graduate student in Computer Science at University of Arizona.
 - [Amit Kumar Jha](https://www.linkedin.com/in/amit-kumar-jha-79b8a6110/), graduate student at the University of Arizona College of Optical Sciences.
 - Alex Carter, graduate student at the University of Arizona Wyant College of Optical Sciences.
+- Kian Milani, Optical Engineer at University of Arizona Steward Observatory.
 
 
 ### Former Undergraduate Students
@@ -90,4 +95,4 @@ Some of UASAL's frequent collaborators include:
 - Neha Joshi
 - Utkarsh Upadhyay
 
-![UASAL Research Group being silly Spring 2024](/assets/group_photo-2.jpg)
+![UASAL Research Group being silly Spring 2024](/assets/UASAL_Group_Edited_Fall2025_B.jpg)
