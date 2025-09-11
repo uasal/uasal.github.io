@@ -16,14 +16,15 @@ Undergraduates are accepted for paid research opportunities through the [TIMESTE
 ## Staff Positions to work with UASAL and CAAO
 Opportunities to join our permanent staff:
 - [R&D Systems Engineer IV](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/22820?c=arizona)
-- [R&D Electrical Engineer II](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/20615?c=arizona)
-- [Computing Sciences Researcher II](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/21883?c=arizona)
-- [R&D Optical Engineer III](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/22856?c=arizona)
+- [Software Manager](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/23359?c=arizona&sq=req23359)
+- [Postdoctoral Research Associate I, High Contrast Astronomy](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/23540?c=arizona)
+- [Postdoctoral Research Associate I, Space Instrumentation](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/23547?c=arizona)
 
 
 ## Other Open Positions in Steward Observatory:
-- [R&D Electrical Engineer II](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/20615?c=arizona)
-- [Postdoctoral Research Associate I](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/21910?c=arizona)
 - [Chief Engineer, RFCML Metrology](https://arizona.csod.com/ux/ats/careersite/4/requisition/21476/application?c=arizona&jobboardid=0#1)
+- [Outreach Instructional Assistant III (Part-Time)](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/23561?c=arizona&sq=req23561)
+- [R&D Systems Engineer II](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/23411?c=arizona&sq=req23411)
+- [Postdoctoral Research Associate I](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/23798?c=arizona&sq=req23798)
 
-_Last Updated 03/31/2025_
+_Last Updated 09/10/2025_
