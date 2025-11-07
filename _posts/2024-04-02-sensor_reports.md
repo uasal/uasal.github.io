@@ -9,7 +9,7 @@ author:
   - "Ewan"
 ---
 
-In order to assess the suitability of CMOS sensors for astronomical applications we have been testing a range of commercially available sensors and camera packages with our colleagues in the [UA Imagining Technology Lab](https://itl.arizona.edu/), led by Dr. Michael Lesser.
+In order to assess the suitability of CMOS sensors for astronomical applications we have been testing a range of commercially available sensors and camera packages with our colleagues in the [UA Imagining Technology Lab](https://itl.arizona.edu/), led by Dr Jarron Leisenring and founded by Dr. Michael Lesser.
 
 Test results to date include:
 
