@@ -14,10 +14,13 @@ UA offers a world-class research environment in ground and space-based astrophys
 UASAL collaborates closely with UA fabrication facilities including the Richard F. Caris Mirror Lab, the University of Arizona Nano Fabrication Center, the Imaging Technology Laboratory, and the Arizona Space Institute.  
 
 ### The Space Coronagraph Optical Bench (SCoOB)
-As part of efforts to advance exoplanet imaging technologies UASAL operates a vacuum-compatible, high-contrast testbed. Our testbed is currently configured for visible wavelengths and featuring a 952 actuator deformable mirror.  
-[Design and Assembly paper, Ashcraft et al 2022 (Proceedings of SPIE)](https://arxiv.org/abs/2208.01156). 
+As part of efforts to advance exoplanet imaging technologies UASAL operates a vacuum-compatible, high-contrast testbed. Our testbed is currently configured for visible wavelengths and featuring a 952 actuator deformable mirror.  We are in the process of extending SCoOB to ultraviolet wavelengths to evaluate the potential for detecting ozone on exoplanets. 
 
-![SCoOB Assembled in our laboratory’s clean tent from Ashcraft et al 2022](/assets/testbed_assembled.png)
+Highlights include:
+- [Design and Assembly paper, Ashcraft et al 2022 (Proceedings of SPIE)](https://arxiv.org/abs/2208.01156). 
+- ![SCoOB Assembled in our laboratory’s clean tent from Ashcraft et al 2022](/assets/testbed_assembled.png)
+- ![ Performance predictions and contrast limits for an ultraviolet high-contrast imaging testbed](www.spiedigitallibrary.org/journals/Journal-of-Astronomical-Telescopes-Instruments-and-Systems/volume-11/issue-04/042203/Performance-predictions-and-contrast-limits-for-an-ultraviolet-high-contrast/10.1117/1.JATIS.11.4.042203.full)
+- ![ Tolerancing and manufacture of microfabricated pinholes: creating high-quality wavefronts for improved high-contrast imaging testbed performance](https://www.spiedigitallibrary.org/journals/Journal-of-Astronomical-Telescopes-Instruments-and-Systems/volume-11/issue-04/045006/Tolerancing-and-manufacture-of-microfabricated-pinholes--creating-high-quality/10.1117/1.JATIS.11.4.045006.full)
 
 ### Optical Metrology and Testing
 
