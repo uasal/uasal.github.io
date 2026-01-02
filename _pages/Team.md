@@ -9,7 +9,7 @@ layout: single
 
 ![UASAL Research Group, 2023-2024](/assets/UASAL_Group_Edited_v1_Fall2025.jpg)
 
-Principal Investigator [Ewan Douglas](https://www.as.arizona.edu/people/faculty/ewan-douglas) is an Assistant Professor at the University of Arizona Steward Observatory, [![google scholar badge](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=-mwPSu8AAAAJ&view_op=list_works&sortby=pubdate), [![ORCiD badge](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)0000-0002-0813-4308](https://orcid.org/0000-0002-0813-4308).
+Principal Investigator [Ewan Douglas](https://www.as.arizona.edu/people/faculty/ewan-douglas) is an Associate Professor at the University of Arizona Department of Astronomy, Associate Astronomer Steward Observatory and Associate Professor of Aerospace and Mechanical Engineering, [![google scholar badge](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=-mwPSu8AAAAJ&view_op=list_works&sortby=pubdate), [![ORCiD badge](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)0000-0002-0813-4308](https://orcid.org/0000-0002-0813-4308).
 
 See [Open positions to join our research](join.md) team.
 
