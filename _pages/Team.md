@@ -46,8 +46,8 @@ See [Open positions to join our research](join.md) team.
 - Cameron Ard, Research Professional at the University of Arizona Steward Observatory.
 - Bianca Alondra Payan, Research Professional at the University of Arizona Steward Observatory.
 - [Ruby Huie](https://www.linkedin.com/in/rubyhuie/), Research Professional at the University of Arizona Steward Observatory.
-- [Stephanie Rinaldi](https://www.linkedin.com/in/stephanie-rinaldi-20013/), R&D Systems Engineer at the University of Arizona Steward Observatory.
-- [Adam Schilperoort](https://www.linkedin.com/in/adam-schilperoort/), Software Engineer at the University of Arizona Steward Observatory. ![ORCiD badge](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)[0009-0000-0508-1354](https://orcid.org/0009-0000-0508-1354)
+- [Stephanie Rinaldi](https://www.linkedin.com/in/stephanie-rinaldi-20013/), R&D Systems Engineer at the University of Arizona Steward Observatory. [![ORCiD Badge](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)0009-0006-3751-5819](https://orcid.org/0009-0006-3751-5819)
+- [Adam Schilperoort](https://www.linkedin.com/in/adam-schilperoort/), Software Engineer at the University of Arizona Steward Observatory. [![ORCiD badge](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)0009-0000-0508-1354](https://orcid.org/0009-0000-0508-1354)
 
 ## Undergraduate Students
 
