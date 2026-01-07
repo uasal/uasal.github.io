@@ -60,7 +60,7 @@ Some of UASAL's frequent collaborators include:
 - The eXtreme-Wavefront Control Lab: [UA XWCL](https://xwcl.science).
 - The MIT Space, Telecommunications, Astronomy, and Radiation Lab: [MIT STAR Lab](http://starlab.mit.edu/).
 - The UA Center for Adaptive Optics: [CAAO](https://www.as.arizona.edu/CAAO).
-
+- [Sebastiaan Haffert, Leiden University](https://www.universiteitleiden.nl/en/staffmembers/sebastiaan-haffert)
 
 ## Former Postdocs
 
