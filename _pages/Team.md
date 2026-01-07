@@ -25,6 +25,7 @@ See [Open positions to join our research](join.md) team.
 - [Justin Hom](https://www.linkedin.com/in/justin-hom-566317110), postdoc at the University of Arizona Steward Observatory, [![google scholar badge](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?view_op=list_works&hl=en&user=MNv4whMAAAAJ), [![ORCiD badge](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)0000-0002-0813-4308](https://orcid.org/0000-0001-9994-2142).
 - [Sanchit Sabhlok](https://orcid.org/0000-0002-8780-8226), postdoc at the University of Arizona Steward Observatory.
 - [Saraswathi Kalyani Subramanian](www.linkedin.com/in/saraswathikalyani), postdoc at the University of Arizona Steward Observatory.
+- [Jaegun Yoo](https://orcid.org/0009-0002-0291-4933), postdoc at the University of Arizona Steward Observatory.
 
 ## Graduate Students
 - [Emory Jenkins](https://www.linkedin.com/in/emory-jenkins/), graduate student at the University of Arizona Wyant College of Optical Sciences, [![google scholar badge](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=0Gs1L98AAAAJ&hl=en), [![ORCiD badge](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)0000-0001-6829-7910](https://orcid.org/0000-0001-6829-7910).
