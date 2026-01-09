@@ -1,0 +1,46 @@
+---
+title: "AAS247 Conference Wrap up"
+categories:
+  - conferences
+tags:
+  - conferences
+  - papers
+  - blog
+author:
+  - "Ewan Douglas et al."
+---
+
+This year the American Astronomical Society Winter Meeting was in Phoenix and several of us made the short drive from Tucson to share some exciting work we've worked on for the past year.
+
+## [Space Coronagraph Optical Bench Poster](https://aas247-aas.ipostersessions.com/default.aspx?s=39-69-CB-A3-2F-AB-A5-22-7D-C5-D3-5A-3E-78-CB-E6&guestview=true)
+** Ewan S. Douglas and team
+
+<details>
+iPoster: https://aas247-aas.ipostersessions.com/default.aspx?s=39-69-CB-A3-2F-AB-A5-22-7D-C5-D3-5A-3E-78-CB-E6&guestview=true
+Imaging sub-Neptune radius planets around Sunlike stars requires reaching ultra-high flux ration sensitivity, of order parts in a billion. To reach these contrasts internally on a space telescope requires a well optimized coronagraph with sub-nanometer wavefront sensing and control. There are significant gaps in realizing this technology for realistic observing scenarios with unstable telescopes in stellar flux limited regimes. At the University of Arizona we have built a vacuum space coronagraphy testbed, the Space COronagraph Optical Bench (SCoOB) to evaluate high-contrast imaging approaches. The baseline configuration includes a 952 actuator microelectromechanical deformable mirror and a liquid crystal polymer charge-6 vector vortex mask and reaches broadband normalized intensity contrasts lower than 1e-8 in air and in vacuum. SCoOB uses the software based on the Magellan Adaptive Optics-Extreme MagAO-X library, INDI and the realtime adaptive optics (AO) control library Compute and Control for Adaptive Optics (CACAO). This framework allows multichannel control and injection of realistic disturbances to test AO control loops. In addition to serving as a training ground for the next generation of high-contrast imaging students, work is underway to add UV coronagraphy, low-order wavefront control, and fully remote operations and a new refactored software library, eXtreme Wavefront Control Toolkit (XWCT). We will provide an overview of the SCoOB systems engineering and simulation approach, impact on open source software, and students trained.
+</details>
+
+
+## [Lazuli Splinter Session Coronagaphy Slides](https://arizona.box.com/s/y56pi6ne9uvwwfjgu28pxiomu8jqqtgv)
+** Ewan S Douglas and team
+
+slides: https://arizona.box.com/s/y56pi6ne9uvwwfjgu28pxiomu8jqqtgv
+
+This presentation was part of a Schmidt Observatories Splinter Session which overall received a lot of media attention including [Astronomy Magazine](https://www.astronomy.com/science/eric-and-wendy-schmidt-to-fund-space-telescope-three-ground-based-observatories/),
+[Ars Technica](https://arstechnica.com/space/2026/01/eric-schmidt-will-massively-invest-in-private-telescopes-including-hubble-replacement/), [Space.com](https://www.space.com/space-exploration/former-ceo-of-google-spearheads-4-next-gen-telescopes-3-on-earth-and-1-in-space), [NYTimes](https://www.nytimes.com/2026/01/09/science/eric-schmidt-telescopes-google-space.html).
+
+<details>
+
+Session abstract: 
+
+Spatially resolving and directly characterizing cold planets and disks in reflected light will unlock many new physical regimes, revealing unexplored architectures and histories of nearby stellar systems like our own.  For exoplanets, reflections are 10 million to beyond 10 billion times dimmer than their host star, and circumstellar debris disks span an even larger dynamic range. The Nancy Grace Roman Space Telescope Coronagraph is expected to take our first image of a Jupiter-analog. Beyond that, the Astro2020 decadal survey recommended a UV-optical-IR exoplanet imaging mission, now known as the Habitable Worlds Observatory (HWO) to characterize many Earthlike planets with a $\sim$6.5m space telescope
+
+A flexibly scheduled, high-throughput 3m class coronagraphic imaging mission at 1e-8 or better flux ratio fills an important need. Such an observatory provides sensitivity to debris disks and giant exoplanets in the habitable zones of nearby stars, some of which could be followed up spectroscopically by Roman or HWO for detailed characterization. 
+
+We have developed a two-arm coronagraph design that spans 400 to 750 nm, combines deformable mirrors, CMOS sensors, and vector vortex waveplates with Linux software derived from the MagAO-X instrument running on onboard GPUs. Testing has demonstrated whitelight <1e-8 contrasts with existing hardware.
+
+Combining such a coronagraph with an unobstructed 3 meter class telescope opens significant discovery potential for both exoplanet imaging and debris disks while demonstrating several new technologies.  Such a mission has the potential to rapidly expand our knowledge of solar systems like our own by minimizing hardware development to field a well-optimized, low-cost instrument this decade. We hope this process will scientifically and technologically accelerate the search for life with future HWO scale missions. We will describe the architecture, testing, simulation, and science impact of the proposed high-contrast imaging concept.
+
+</details>
+
+Other presentations included.
