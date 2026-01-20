@@ -14,7 +14,7 @@ UA offers a world-class research environment in ground and space-based astrophys
 UASAL collaborates closely with UA fabrication facilities including the Richard F. Caris Mirror Lab, the University of Arizona Nano Fabrication Center, the Imaging Technology Laboratory, and the Arizona Space Institute.  
 
 ### The Space Coronagraph Optical Bench (SCoOB)
-As part of efforts to advance exoplanet imaging technologies UASAL operates a vacuum-compatible, high-contrast testbed. Our testbed is currently configured for visible wavelengths and featuring a 952 actuator deformable mirror.  We are in the process of extending SCoOB to ultraviolet wavelengths to evaluate the potential for detecting ozone on exoplanets. 
+As part of efforts to advance exoplanet and disk imaging technologies UASAL operates a vacuum-compatible, high-contrast testbed which allows us to test new devices and software and evaluate their potential to improve the sensitivity of future space telescopes to planets around other stars and debris disks (e.g. asteroid belts, zodiacal dust, and Kuiper belts). Our testbed is currently configured for visible wavelengths and featuring a 952 actuator deformable mirror.  We are in the process of extending SCoOB to ultraviolet wavelengths to evaluate the potential for detecting ozone on exoplanets. 
 - ![SCoOB Assembled in our laboratory’s clean tent from Ashcraft et al 2022](/assets/testbed_assembled.png)
 
 Recent results include:
