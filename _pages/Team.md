@@ -50,6 +50,9 @@ See [Open positions to join our research](join.md) team.
 - [Stephanie Rinaldi](https://www.linkedin.com/in/stephanie-rinaldi-20013/), R&D Systems Engineer at the University of Arizona Steward Observatory. [![ORCiD Badge](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)0009-0006-3751-5819](https://orcid.org/0009-0006-3751-5819)
 - [Adam Schilperoort](https://www.linkedin.com/in/adam-schilperoort/), Software Engineer at the University of Arizona Steward Observatory. [![ORCiD badge](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)0009-0000-0508-1354](https://orcid.org/0009-0000-0508-1354)
 
+## Engineering Staff
+- Tyler Raymond, R&D Mechanical Engineer at the University of Arizona Steward Observatory.
+
 ## Undergraduate Students
 
 
