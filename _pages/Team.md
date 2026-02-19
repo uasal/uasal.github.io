@@ -41,7 +41,7 @@ See [Open positions to join our research](join.md) team.
 - Nicholas Schragal, graduate student at the University of Arizona Steward Observatory. [![ORCiD badge](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)0009-0002-8386-886X](https://orcid.org/0009-0002-8386-886X)
 - Pierre Nicolas, graduate student at the Wyant College of Optical Sciences
   
-## Research Staff
+## Research and Engineering Staff
 - Manny Montoya, Technical Manager at the University of Arizona Steward Observatory.
 - Jess Johnson, Adaptive Optics Research Scientist at the University of Arizona Steward Observatory.
 - Cameron Ard, Research Professional at the University of Arizona Steward Observatory.
@@ -50,6 +50,7 @@ See [Open positions to join our research](join.md) team.
 - [Steve Meyer](https://www.linkedin.com/in/stevemeyermeche/), Mechanical Engineer IV at the University of Arizona Steward Observatory. [![ORCiD Badge](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)0000-0001-9578-2524](https://orcid.org/0000-0001-9578-2524)
 - [Stephanie Rinaldi](https://www.linkedin.com/in/stephanie-rinaldi-20013/), R&D Systems Engineer at the University of Arizona Steward Observatory. [![ORCiD Badge](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)0009-0006-3751-5819](https://orcid.org/0009-0006-3751-5819)
 - [Adam Schilperoort](https://www.linkedin.com/in/adam-schilperoort/), Software Engineer at the University of Arizona Steward Observatory. [![ORCiD badge](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)0009-0000-0508-1354](https://orcid.org/0009-0000-0508-1354)
+- Tyler Raymond, R&D Mechanical Engineer at the University of Arizona Steward Observatory.
 
 ## Undergraduate Students
 
