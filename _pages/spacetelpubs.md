@@ -20,3 +20,4 @@ Partial listing of UASAL and Steward Observatory Publications related to space t
 | Approaches to lowering the cost of large space telescopes |2023 Sep 10| [DOI](https://arxiv.org/abs/2309.04934) | https://arxiv.org/abs/2309.04934|
 |Conceptual IFS spectrograph interface control drawing and STEP| 2024 April 7| NA| https://github.com/uasal/IFS_Docs/blob/main/INST-0302.pdf |
 |[Space Hardware Handbook](https://uasal.github.io/spacehardwarehandbook-public/) | Nov 19, 2019 | https://doi.org/10.5281/zenodo.8331489| source: https://github.com/uasal/spacehardwarehandbook-public|
+|[UASAL Acronym Reference Sheet](https://uasal.github.io/acronyms/compiled-acronyms.pdf)| May 28, 2024| NA| https://github.com/uasal/acronyms|
