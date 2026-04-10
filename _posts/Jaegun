@@ -1,9 +1,24 @@
 # A New Window to the Stars: Why Jaegun Yoo Wants You to “Look Up”:
 
 Kai Phung
+
 University of Arizona
 
 Sometimes the path to the stars begins on the living room floor.
 For Jaegun Yoo, the journey to becoming a space scientist started not with a telescope, but with a screwdriver and a pile of broken toys.
 As a child, he didn't just play with his things; he took them apart to see how they worked—
 a curiosity that eventually led him into a career in mechanical engineering.
+Now, his path has brought him back to his childhood wonder, but on a much grander scale. 
+At the University of Arizona’s Steward Observatory, Jaegun is the "master of temperature" for the UASAL team.
+Using the same persistence he developed while trying to beat the "final boss" in video games,
+he is now tackling the ultimate challenge: ensuring a multimillion-dollar telescope can survive the brutal, unforgiving temperatures of deep space.
+
+---
+
+**1. What is  your role on UASAL and why is it important to the team?**
+
+My role at the University of Arizona Space Astrophysics Lab (UASAL) is to design the temperature control system that keeps the space telescope and its instruments within the right operating temperature range in space. Space is really different from what we’re used to on Earth, and there is no air and no convection, so heat doesn’t move around the same way. Also, space is an extreme environment. Deep space is close to -459.67 °F (almost as cold as you can get), but surfaces facing the sun can heat up to around 300°F, depending on the space telescope’s design and orbit. Different instruments on the telescope require different operating temperatures, and they are all connected. Hence, heating or cooling one part can affect another.
+
+To make sure an astronomical space instrument works safely and performs well, we do three main steps. First, we run on-orbit simulations to predict how hot or cold the space telescope will get in orbit. Next, based on those results, we design and build thermal control hardware – things like heaters, insulation, and radiators. Finally, we test and validate the system in a thermal vacuum chamber, which recreates (replicates) space conditions to verify that our design works.
+
+This role is important because if the telescope gets too hot or too cold, the instruments can stop working or the image quality can degrade. In other words, my role helps instruments survive in space and produce good scientific data. 
