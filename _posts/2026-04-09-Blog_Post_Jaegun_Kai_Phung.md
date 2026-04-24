@@ -4,7 +4,7 @@
 
 *University of Arizona*
 
-<a href="https://ibb.co/hxqv7jtF"><img src="https://i.ibb.co/9mMj8LCH/Jaegun-1.jpg" alt="Jaegun-1" border="0"></a>
+<a href="assets/blog_images/2026-04-09-Blog_Post_Jaegun_Kai_Phung_Optical.jpg" alt="Jaegun-1" border="0"></a>
 
 Sometimes the path to the stars begins on the living room floor.
 For Jaegun Yoo, the journey to becoming a space scientist started not with a telescope, but with a screwdriver and a pile of broken toys.
