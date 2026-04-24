@@ -4,7 +4,7 @@
 
 *University of Arizona*
 
-<img src="/assets/blog_images/2026-04-09-Blog_Post_Jaegun_Kai_Phung_Optical.jpg" alt="6 inch and 7 inch diameter Integrating Spheres" width="800"/>
+<img src="/assets/blog_images/2026-04-09-Blog_Post_Jaegun_Kai_Phung_Room.jpg" alt="6 inch and 7 inch diameter Integrating Spheres" width="800"/>
 
 Sometimes the path to the stars begins on the living room floor.
 For Jaegun Yoo, the journey to becoming a space scientist started not with a telescope, but with a screwdriver and a pile of broken toys.
@@ -24,6 +24,8 @@ My role at the University of Arizona Space Astrophysics Lab (UASAL) is to design
 To make sure an astronomical space instrument works safely and performs well, we do three main steps. First, we run on-orbit simulations to predict how hot or cold the space telescope will get in orbit. Next, based on those results, we design and build thermal control hardware – things like heaters, insulation, and radiators. Finally, we test and validate the system in a thermal vacuum chamber, which recreates (replicates) space conditions to verify that our design works.
 
 This role is important because if the telescope gets too hot or too cold, the instruments can stop working or the image quality can degrade. In other words, my role helps instruments survive in space and produce good scientific data. 
+
+<img src="/assets/blog_images/2026-04-09-Blog_Post_Jaegun_Kai_Phung_Room.jpg" alt="6 inch and 7 inch diameter Integrating Spheres" width="800"/>
 
 **2. What previous experiences have prepared you for working at Steward Observatory on Space Missions?**
 
