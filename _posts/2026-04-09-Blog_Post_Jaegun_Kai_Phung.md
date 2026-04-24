@@ -4,7 +4,7 @@
 
 *University of Arizona*
 
-<a href="assets/blog_images/2026-04-09-Blog_Post_Jaegun_Kai_Phung_Optical.jpg" alt="Jaegun-1" border="0"></a>
+<img src="/assets/blog_images/2026-04-09-Blog_Post_Jaegun_Kai_Phung_Optical.jpg" alt="6 inch and 7 inch diameter Integrating Spheres" width="800"/>
 
 Sometimes the path to the stars begins on the living room floor.
 For Jaegun Yoo, the journey to becoming a space scientist started not with a telescope, but with a screwdriver and a pile of broken toys.
@@ -45,4 +45,4 @@ How much do we really know about the universe? A lot of astronomers say we’ve 
 
 And here we are, living our everyday lives: we laugh, we cry, we argue/fight with friends, we compete, and honestly, we work really hard just to get through each day. So sometimes, I want to encourage people—especially students—not to only focus on what’s right in front of them on the ground. Look up. Take a breath. Give yourself a moment to step back and reflect on who you are and what really matters. For me personally, when I look at the universe that God created, it helps me reflect on myself. It reminds me to stay humble—and to live with gratitude to God.
 
-<a href="https://ibb.co/Lz7GLWZj"><img src="https://i.ibb.co/svYB0GVx/Jaegun-2.jpg" alt="Jaegun 2" border="0"></a>
+<img src="/assets/blog_images/2026-04-09-Blog_Post_Jaegun_Kai_Phung_Optical.jpg" alt="6 inch and 7 inch diameter Integrating Spheres" width="800"/>
