@@ -25,7 +25,9 @@ To make sure an astronomical space instrument works safely and performs well, we
 
 This role is important because if the telescope gets too hot or too cold, the instruments can stop working or the image quality can degrade. In other words, my role helps instruments survive in space and produce good scientific data. 
 
-<img src="/assets/blog_images/2026-04-09-Blog_Post_Jaegun_Kai_Phung_Room.jpg" alt="6 inch and 7 inch diameter Integrating Spheres" width="800"/>
+<img src="/assets/blog_images/IMG_1106.jpg" alt="6 inch and 7 inch diameter Integrating Spheres" width="800"/>
+
+*Jaegun Yoo in the UA Steward Observatory Cleanroom*
 
 **2. What previous experiences have prepared you for working at Steward Observatory on Space Missions?**
 
