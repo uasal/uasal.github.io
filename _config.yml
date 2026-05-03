@@ -22,7 +22,9 @@ name                     : "UASAL"
 description              : "We build hardware and code to find exoplanets at Steward Observatory"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "uasal/uasal.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+github:
+  edit_branch            : main
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -267,6 +269,11 @@ compress_html:
 
 # Defaults
 defaults:
+  # all pages and posts
+  - scope:
+      path: ""
+    values:
+      show_link_to_source: true
   # _posts
   - scope:
       path: ""
@@ -278,3 +285,11 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      show_link_to_source: true
