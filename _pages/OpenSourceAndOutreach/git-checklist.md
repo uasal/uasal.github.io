@@ -95,6 +95,10 @@ layout: single
 </details>
 
 <details>
+  <summary>☐ searching history</summary>
+  <div></div>
+  
+<details>
   <summary>☐ using rebase</summary>
   <div></div>
 </details>
@@ -146,7 +150,4 @@ layout: single
   <div></div>
 </details>
 
-<details>
-  <summary>☐ searching history</summary>
-  <div></div>
 </details>
