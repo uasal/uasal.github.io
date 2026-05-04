@@ -43,12 +43,21 @@ layout: single
 ## Basic GitHub / GitLab
 
 <details>
+  <summary>☐ turning on notifications</summary>
+  <div></div>
+</details>
+
+<details>
   <summary>☐ branches</summary>
   <div></div>
 </details>
 
 <details>
   <summary>☐ MR / PR</summary>
+  <div></div>
+</details>
+<details>
+  <summary>☐ opening and closing and linking issues</summary>
   <div></div>
 </details>
 
@@ -96,8 +105,9 @@ layout: single
 
 <details>
   <summary>☐ searching history</summary>
-  <div></div>
-  
+  <div>https://stackoverflow.com/a/4472267/2142498</div>
+  </details>
+
 <details>
   <summary>☐ using rebase</summary>
   <div></div>
@@ -147,7 +157,5 @@ layout: single
 
 <details>
   <summary>☐ cherry picking</summary>
-  <div></div>
-</details>
-
+  <div>test</div>
 </details>
