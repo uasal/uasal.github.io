@@ -1,9 +1,9 @@
 {%- if site.repository -%}
   {%- assign branch = site.github.edit_branch | default: "main" -%}
   {%- if page.path -%}
-    <p class="page__edit-link" style="margin-top: 2em; font-size: 0.85em;">
-      <a href="https://github.com/{{ site.repository }}/blob/{{ branch }}/{{ page.path }}" rel="nofollow">
-        <i class="fas fa-fw fa-pencil-alt" aria-hidden="true"></i>  &#9999;&#65039; Edit this page on GitHub.
+    <p class="page__edit-link" style="clear: both; margin-top: 2em; padding-top: 1em; font-size: 0.85em;">
+      <a href="https://github.com/{{ site.repository }}/edit/{{ branch }}/{{ page.path }}" rel="nofollow">
+        <i class="fas fa-fw fa-pencil-alt" aria-hidden="true"></i> &#9999;&#65039; Edit this page on GitHub.
       </a>
     </p>
   {%- endif -%}
