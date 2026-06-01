@@ -26,3 +26,7 @@ The UASAL team is an active contributor to projects including:
 - The Toy Coronagraph Python Package [Toy_Coronagraph](https://github.com/dreamjade/Toy_Coronagraph).
 
 A more complete list can be found at our [GitHub Organization :octocat:  ](https://github.com/uasal)
+
+# Training materials
+
+- we maintain a [git skills checklist](/OpenSourceAndOutreach/gitskills)
