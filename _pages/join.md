@@ -15,7 +15,7 @@ Undergraduates are accepted for paid research opportunities through the [TIMESTE
 
 ## Staff and Research Positions to work with UASAL and CAAO
 Opportunities to join our team:
-- [Research Professor](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/26047
+- [Research Professor](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/26047)
 - [Senior R&D Systems Engineer ](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/25271)
 - [Instrument System/Test Engineer II](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/25217)
 - [Postdoctoral Research Associate I, High Contrast Astronomy](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/23540?c=arizona)
