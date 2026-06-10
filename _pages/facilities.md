@@ -82,3 +82,8 @@ The UA applied research building is home to a range of space [Space Assembly & T
 Steward Observatory is a partner and home to a wide range of world-class observatories, among these are the Large Binocular Telescope and 6.5m aperture telescopes located in both the northern and southern hemispheres.  For details see our [observatories page](observatories.md).
 
 
+
+### Computing Additional following UA computing resources are available to the PI:
+**Lilla** UASAL dedicated Lambda Scalar with  8$\times$  GPUs (H100 NVL, 94GB) and 192 cores  (2x AMD EPYC 9654). Lilla runs Ubuntu.
+**Puma** - UA shared HPC (with 94 cores and 512 GB of memory per node), GPU nodes (with Nvidia V100) and two high-memory nodes (3 TB). Local scratch storage increased to ~1.4 TB. Puma runs on CentOS 7. Each UA investigator (faculty or research faculty) is allocated  150,000 CPU-hours per month.
+**HPC To be named** - UA shared HPC Upgrade _Scheduled to come on line Dec. 2026_: 13,136 CPU Cores,  40x H200 GPUs. 
