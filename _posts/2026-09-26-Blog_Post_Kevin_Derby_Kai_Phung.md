@@ -1,4 +1,12 @@
-# Kevin Zhang Derby: Modeling the Future of Space Exploration 
+---
+title: "Kevin Zhang Derby: Modeling the Future of Space Exploration "
+categories:
+  - profiles
+tags:
+  - students
+author:
+  - "Kai Phung"
+---
 
 *Kai Phung*
 
