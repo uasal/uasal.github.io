@@ -6,9 +6,12 @@
 
 *June 2026*
 
-<img src="/assets/blog_images/Derby, Kevin.jpg" alt="3 inch and 5 inch diameter Integrating Spheres" width="500"/>
+**Editors note:** _The order of the release of our team profiles has been adjusted to celebrate Kevin's successful PhD defense last week (8/13/2026). Congrats Kevin!_ 
 
 **The Man Behind the Models**
+
+<img src="/assets/blog_images/Derby, Kevin.jpg" alt="3 inch and 5 inch diameter Integrating Spheres" width="500"/>
+
 
 Sitting with Kevin Zhang Derby under the shade of an orange tree by the Steward Observatory, I realized the monumental amount of preparation that goes into space telescopes. Kevin’s job is to create computer models that simulate the performance of space instruments, testing whether their hardware and algorithms will actually work. Because space equipment is so expensive and time-consuming to build, these digital tests are a crucial first step.
 
