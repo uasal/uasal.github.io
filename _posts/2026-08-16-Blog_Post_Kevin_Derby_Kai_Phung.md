@@ -12,7 +12,7 @@ author:
 
 *University of Arizona*
 
-*June 2026*
+*August 2026*
 
 **Editor's note:** _The order of the release of our team profiles has been adjusted to celebrate Kevin's successful PhD defense last week (8/13/2026). Congrats Kevin!_ 
 
