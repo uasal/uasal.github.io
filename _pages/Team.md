@@ -40,6 +40,7 @@ See [Open positions to join our research](join.md) team.
 - [Yael Brynjegard-Bialik](https://www.linkedin.com/in/yael-brynjegard-bialik/), graduate student at the University of Arizona College of Engineering, [![google scholar badge](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=4hNWt_cAAAAJ&hl=en).
 - Nicholas Schragal, graduate student at the University of Arizona Steward Observatory. [![ORCiD badge](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)0009-0002-8386-886X](https://orcid.org/0009-0002-8386-886X)
 - Pierre Nicolas, graduate student at the Wyant College of Optical Sciences
+- [Aditya Khandelwal](https://www.linkedin.com/in/aditya-khandelwal-uoft), graduate student at the University of Arizona Steward Observatory, [![google scholar badge](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=HPgEYC4AAAAJ), [![ORCiD badge](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)0009-0006-3188-850X](https://orcid.org/0009-0006-3188-850X).
   
 ## Research and Engineering Staff
 - Manny Montoya, Technical Manager at the University of Arizona Steward Observatory.
