@@ -15,7 +15,7 @@ See [Open positions to join our research](join.md) team.
 
 ## Research Faculty
 - Patrick Ingraham, Associate Research Professor, University of Arizona Steward Observatory
-- [Corey Fucetola](https://www.linkedin.com/in/corey-fucetola-ab3a101/), Research Assistant Professor, University of Arizona Steward Observatory, [![ORCiD badge](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)0000-0002-8657-8537](https://orcid.org/0000-0002-8657-8537)
+
 - [Kyle Van Gorkom](https://kvangorkom.github.io/), Assistant Research Professor, University of Arizona Steward Observatory
 - [Ramya M Anche](https://www.linkedin.com/in/ramyamanjunath/), Assistant Research Professor, University of Arizona Steward Observatory.
 - Kelsey Miller, Assistant Research Professor, University of Arizona Steward Observatory
