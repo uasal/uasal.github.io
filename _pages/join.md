@@ -15,11 +15,12 @@ Undergraduates are accepted for paid research opportunities through the [TIMESTE
 
 ## Staff and Research Positions to work with UASAL and CAAO
 Opportunities to join our team:
+- [Postdoctoral Research Associate, High Contrast Astronomy and Polarimetry 2027](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/27354)
+- [Postdoctoral Research Associate, Exoplanet and Disk Coronagraph Imaging 2027](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/27484)
+- [Postdoctoral Research Associate, Precision Astronomy 2027](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/27486)
 - [Research Professor](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/26047)
 - [Senior R&D Systems Engineer ](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/25271)
 - [Instrument System/Test Engineer II](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/25217)
-- [Postdoctoral Research Associate I, High Contrast Astronomy](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/23540?c=arizona)
-- [Postdoctoral Research Associate I, Space Instrumentation](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/23547?c=arizona)
 
 ## Other Open Positions in Steward Observatory:
 - [Outreach Instructional Assistant II (Part Time) (On Call) (Mt. Lemmon)](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/21869?c=arizona&sq=req21869)
